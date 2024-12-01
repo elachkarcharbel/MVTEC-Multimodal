@@ -1,0 +1,1259 @@
+Image Name,Caption
+bottle_ground_truth_broken_large_000_mask.png,"A man in a black shirt is standing in front of a sign that says ""Finishing School ""."
+bottle_ground_truth_broken_large_001_mask.png,Men with glasses are standing in a line.
+bottle_ground_truth_broken_large_002_mask.png,A man with glasses is looking at something.
+bottle_ground_truth_broken_large_003_mask.png,A man with glasses is looking at a piece of paper.
+bottle_ground_truth_broken_large_004_mask.png,A black-haired woman with a white beard and glasses is holding a black tray of food.
+bottle_ground_truth_broken_large_005_mask.png,A man with a black hat and a red shirt is holding a large piece of paper.
+bottle_ground_truth_broken_large_006_mask.png,A man in a black shirt is looking at a piece of paper.
+bottle_ground_truth_broken_large_007_mask.png,A man with glasses is holding a piece of paper.
+bottle_ground_truth_broken_large_008_mask.png,A man with glasses is looking at something.
+bottle_ground_truth_broken_large_009_mask.png,A man in a suit is looking at a piece of paper.
+bottle_ground_truth_broken_large_010_mask.png,A man with glasses is speaking into a microphone.
+bottle_ground_truth_broken_large_011_mask.png,A man with glasses is looking through a microscope.
+bottle_ground_truth_broken_large_012_mask.png,A man with glasses is looking at something.
+bottle_ground_truth_broken_large_013_mask.png,A man in a suit is standing in front of a large machine.
+bottle_ground_truth_broken_large_014_mask.png,Man with glasses and a red shirt is looking at something.
+bottle_ground_truth_broken_large_015_mask.png,A man with a white beard is wearing a red shirt and black hat.
+bottle_ground_truth_broken_large_016_mask.png,"A black-haired man with a white beard is standing in front of a table with a large sign that says ""Auctioneer's Apprentice."
+bottle_ground_truth_broken_large_017_mask.png,A man in a suit is standing in front of a table with a large number of wires.
+bottle_ground_truth_broken_large_018_mask.png,A black man with glasses is standing in front of a white wall with a large machine.
+bottle_ground_truth_broken_large_019_mask.png,A black man with a white shirt is standing in front of a large sign.
+bottle_ground_truth_broken_small_000_mask.png,A black man with glasses is looking at something in the distance.
+bottle_ground_truth_broken_small_001_mask.png,A man with glasses is playing with a red ball.
+bottle_ground_truth_broken_small_002_mask.png,A black man with glasses is looking at something.
+bottle_ground_truth_broken_small_003_mask.png,Man with glasses is looking at something.
+bottle_ground_truth_broken_small_004_mask.png,A man with glasses and a black hat is holding a piece of paper with a red and white circle on it.
+bottle_ground_truth_broken_small_005_mask.png,Man with glasses and a black hat is pouring a liquid into a glass.
+bottle_ground_truth_broken_small_006_mask.png,Man with glasses and a black hat is holding a drink.
+bottle_ground_truth_broken_small_007_mask.png,A man with a black hat is looking at the camera.
+bottle_ground_truth_broken_small_008_mask.png,A man with glasses and a black shirt is playing the piano.
+bottle_ground_truth_broken_small_009_mask.png,A black man with glasses and a white shirt is wearing a black shirt and black glasses.
+bottle_ground_truth_broken_small_010_mask.png,A man with glasses is looking at something.
+bottle_ground_truth_broken_small_011_mask.png,A black man with glasses is smiling.
+bottle_ground_truth_broken_small_012_mask.png,Man with glasses and a black shirt with a white stripe on it.
+bottle_ground_truth_broken_small_013_mask.png,A black man with glasses and a white beard is holding a wineglass.
+bottle_ground_truth_broken_small_014_mask.png,A black-haired man with glasses and a white beard is looking at something.
+bottle_ground_truth_broken_small_015_mask.png,A man with glasses is pouring a liquid from a bottle.
+bottle_ground_truth_broken_small_016_mask.png,A man with glasses and a black shirt is looking at something.
+bottle_ground_truth_broken_small_017_mask.png,A man in a black hat is looking at something.
+bottle_ground_truth_broken_small_018_mask.png,Man with glasses and a white shirt is standing in front of a large glass case.
+bottle_ground_truth_broken_small_019_mask.png,A man with glasses is looking at something.
+bottle_ground_truth_broken_small_020_mask.png,A man with a black hat and glasses is looking at the camera.
+bottle_ground_truth_broken_small_021_mask.png,A black man with a red shirt and black hat is holding a cup.
+bottle_ground_truth_contamination_000_mask.png,Man with glasses and a white beard wearing a black hat and a white shirt is standing in front of a table with a white tablecloth.
+bottle_ground_truth_contamination_001_mask.png,Man in a red shirt is looking at a piece of bread.
+bottle_ground_truth_contamination_002_mask.png,A man in a white shirt is playing with a ball.
+bottle_ground_truth_contamination_003_mask.png,A black man with glasses and a red shirt is holding a red ball.
+bottle_ground_truth_contamination_004_mask.png,Woman in a white shirt is holding a cellphone.
+bottle_ground_truth_contamination_005_mask.png,Two people are looking at something in the distance.
+bottle_ground_truth_contamination_006_mask.png,A woman in a red shirt is looking at something.
+bottle_ground_truth_contamination_007_mask.png,Actor in black shirt playing the piano.
+bottle_ground_truth_contamination_008_mask.png,Two people are looking at something in the distance.
+bottle_ground_truth_contamination_009_mask.png,A person is standing in the middle of the sky with a red object in his hand.
+bottle_ground_truth_contamination_010_mask.png,A woman in a red shirt is looking at something in the distance.
+bottle_ground_truth_contamination_011_mask.png,A woman in a red shirt is looking through her binoculars.
+bottle_ground_truth_contamination_012_mask.png,A woman in a red shirt is looking at something in the distance.
+bottle_ground_truth_contamination_013_mask.png,A man with glasses is looking at something in a microscope.
+bottle_ground_truth_contamination_014_mask.png,Boy in a black shirt with a red tie is holding a piece of paper in his hand.
+bottle_ground_truth_contamination_015_mask.png,A black man with glasses and a white beard is wearing a black suit and tie.
+bottle_ground_truth_contamination_016_mask.png,A person is wearing a red hat and is looking at the sky.
+bottle_ground_truth_contamination_017_mask.png,Man with glasses and a black shirt is standing in front of a mirror.
+bottle_ground_truth_contamination_018_mask.png,A group of people are playing a game.
+bottle_ground_truth_contamination_019_mask.png,Woman with glasses is holding a red plastic bag.
+bottle_ground_truth_contamination_020_mask.png,A woman in a red shirt is looking at something.
+cable_ground_truth_bent_wire_000_mask.png,A group of people are wearing glasses and white shirts.
+cable_ground_truth_bent_wire_001_mask.png,A white-haired man with glasses is wearing a red shirt and a white hat.
+cable_ground_truth_bent_wire_002_mask.png,A man with glasses is looking at something.
+cable_ground_truth_bent_wire_003_mask.png,A black man with glasses is playing with a ball.
+cable_ground_truth_bent_wire_004_mask.png,A black and white dog swims in the water.
+cable_ground_truth_bent_wire_005_mask.png,The man in the black hat is holding a pitchfork.
+cable_ground_truth_bent_wire_006_mask.png,A black and white striped man with a red hat is standing in the middle of a crowd.
+cable_ground_truth_bent_wire_007_mask.png,A baseball player in a red uniform is running with his arms raised.
+cable_ground_truth_bent_wire_008_mask.png,Man with glasses and a white shirt is looking at something.
+cable_ground_truth_bent_wire_009_mask.png,Man in a suit is working at a carnival.
+cable_ground_truth_bent_wire_010_mask.png,Person with a black hat on.
+cable_ground_truth_bent_wire_011_mask.png,A black-haired man with a white shirt and black hat is holding a large piece of paper.
+cable_ground_truth_bent_wire_012_mask.png,Scientists are looking at something.
+cable_ground_truth_cable_swap_000_mask.png,Two men are looking at a computer screen.
+cable_ground_truth_cable_swap_001_mask.png,A man in a yellow shirt is looking at something.
+cable_ground_truth_cable_swap_002_mask.png,A man with glasses and a black shirt is looking at something.
+cable_ground_truth_cable_swap_003_mask.png,A black-haired man with glasses is looking at a piece of paper.
+cable_ground_truth_cable_swap_004_mask.png,A man with glasses is looking at something.
+cable_ground_truth_cable_swap_005_mask.png,Man in a suit is looking at something.
+cable_ground_truth_cable_swap_006_mask.png,Man with glasses and a black hat is looking at something.
+cable_ground_truth_cable_swap_007_mask.png,A man in a suit is looking at a computer screen.
+cable_ground_truth_cable_swap_008_mask.png,Two men with glasses are looking at something.
+cable_ground_truth_cable_swap_009_mask.png,A man in a red shirt is looking at a screen.
+cable_ground_truth_cable_swap_010_mask.png,A man with glasses is looking at a computer screen.
+cable_ground_truth_cable_swap_011_mask.png,A man with glasses is looking at something.
+cable_ground_truth_combined_000_mask.png,Group of people are playing with bubbles.
+cable_ground_truth_combined_001_mask.png,A man in a black shirt is holding a piece of paper with a red circle on it.
+cable_ground_truth_combined_002_mask.png,A man with glasses and a black shirt is holding a drink in his hand.
+cable_ground_truth_combined_003_mask.png,Students are looking at a wall with a large white wall with a black and white circle in the middle.
+cable_ground_truth_combined_004_mask.png,"Former New York City Councillor for the London 2012 Olympics, Christoph Hopper, is looking at the paper."
+cable_ground_truth_combined_005_mask.png,Looking at a piece of paper.
+cable_ground_truth_combined_006_mask.png,Individuals are looking at a display of various items.
+cable_ground_truth_combined_007_mask.png,Two people are looking at a piece of paper.
+cable_ground_truth_combined_008_mask.png,Five people are standing around a table with a red and white machine.
+cable_ground_truth_combined_009_mask.png,Man with glasses and a black hat is looking at a glass of wine.
+cable_ground_truth_combined_010_mask.png,A man with glasses is looking at a piece of paper.
+cable_ground_truth_cut_inner_insulation_000_mask.png,A white-haired man with glasses is sitting in a room with a group of people.
+cable_ground_truth_cut_inner_insulation_001_mask.png,A man with glasses and a black hat is standing in the middle of a crowd.
+cable_ground_truth_cut_inner_insulation_002_mask.png,A black man with glasses is wearing a black shirt and black pants.
+cable_ground_truth_cut_inner_insulation_003_mask.png,A black-haired person with glasses is playing a game.
+cable_ground_truth_cut_inner_insulation_004_mask.png,Man with glasses and a white beard is standing in front of a table with a glass of water.
+cable_ground_truth_cut_inner_insulation_005_mask.png,Actor in black shirt playing a game.
+cable_ground_truth_cut_inner_insulation_006_mask.png,A woman with glasses is smiling.
+cable_ground_truth_cut_inner_insulation_007_mask.png,Student in black shirt playing a game.
+cable_ground_truth_cut_inner_insulation_008_mask.png,A man in a suit is standing in front of a large sign.
+cable_ground_truth_cut_inner_insulation_009_mask.png,A black man with glasses and a black shirt is sitting in a chair.
+cable_ground_truth_cut_inner_insulation_010_mask.png,A man with glasses is looking at something.
+cable_ground_truth_cut_inner_insulation_011_mask.png,Actor with red hair and glasses is smiling.
+cable_ground_truth_cut_inner_insulation_012_mask.png,Student in a black shirt is sitting in front of a wall with a large whiteboard.
+cable_ground_truth_cut_inner_insulation_013_mask.png,Man with glasses and a black shirt is smiling.
+cable_ground_truth_cut_outer_insulation_000_mask.png,A black-haired man with glasses is holding a red liquid.
+cable_ground_truth_cut_outer_insulation_001_mask.png,A man with a red shirt is looking at something.
+cable_ground_truth_cut_outer_insulation_002_mask.png,Man with glasses and a black hat is looking at something.
+cable_ground_truth_cut_outer_insulation_003_mask.png,A woman in a black hat is looking at something.
+cable_ground_truth_cut_outer_insulation_004_mask.png,A man with glasses is looking at something in a glass case.
+cable_ground_truth_cut_outer_insulation_005_mask.png,A man with a black hat is holding a red cup.
+cable_ground_truth_cut_outer_insulation_006_mask.png,Man in a black shirt with a red tie is standing in front of a crowd.
+cable_ground_truth_cut_outer_insulation_007_mask.png,A black-haired man with glasses is holding a red object.
+cable_ground_truth_cut_outer_insulation_008_mask.png,A man with glasses and a white shirt is holding a piece of paper.
+cable_ground_truth_cut_outer_insulation_009_mask.png,A man with a black hat and glasses is holding a sword.
+cable_ground_truth_missing_cable_000_mask.png,Man with glasses and a white shirt is looking at something.
+cable_ground_truth_missing_cable_001_mask.png,A group of people are playing a game.
+cable_ground_truth_missing_cable_002_mask.png,A man in a black shirt is looking at something.
+cable_ground_truth_missing_cable_003_mask.png,A man in a red shirt is looking at something.
+cable_ground_truth_missing_cable_004_mask.png,A group of people are looking at something.
+cable_ground_truth_missing_cable_005_mask.png,A man with glasses is looking at something.
+cable_ground_truth_missing_cable_006_mask.png,A young man in a white shirt is looking at something.
+cable_ground_truth_missing_cable_007_mask.png,Man in a white shirt and glasses is looking at something.
+cable_ground_truth_missing_cable_008_mask.png,Man in a black shirt with a white hat is looking at something.
+cable_ground_truth_missing_cable_009_mask.png,A man in a black shirt is looking at something.
+cable_ground_truth_missing_cable_010_mask.png,A man in a white shirt is holding a red object.
+cable_ground_truth_missing_cable_011_mask.png,A man with glasses is looking at something.
+cable_ground_truth_missing_wire_000_mask.png,A man in a black shirt is looking at something in a white box.
+cable_ground_truth_missing_wire_001_mask.png,Man with glasses and a white shirt is looking at something.
+cable_ground_truth_missing_wire_002_mask.png,A man in a white shirt is looking at something.
+cable_ground_truth_missing_wire_003_mask.png,Young man with glasses and a black shirt is looking at something.
+cable_ground_truth_missing_wire_004_mask.png,A black man with glasses and a white shirt is looking at something.
+cable_ground_truth_missing_wire_005_mask.png,A black man with glasses is looking at something.
+cable_ground_truth_missing_wire_006_mask.png,A black man with glasses is looking at something.
+cable_ground_truth_missing_wire_007_mask.png,A brunette woman in a white shirt is looking at something.
+cable_ground_truth_missing_wire_008_mask.png,A black and white dog is looking at a white object.
+cable_ground_truth_missing_wire_009_mask.png,A black man with glasses is looking at something.
+cable_ground_truth_poke_insulation_000_mask.png,A man with glasses is playing with a ball.
+cable_ground_truth_poke_insulation_001_mask.png,Man with glasses and a black hat is speaking into a microphone.
+cable_ground_truth_poke_insulation_002_mask.png,A black man with a red shirt and black hat is throwing a ball.
+cable_ground_truth_poke_insulation_003_mask.png,A black-haired man with glasses is playing with a red ball.
+cable_ground_truth_poke_insulation_004_mask.png,A black man with glasses and a black hat is standing in front of a table with a red tablecloth.
+cable_ground_truth_poke_insulation_005_mask.png,Men with black hair and glasses are walking through the rain.
+cable_ground_truth_poke_insulation_006_mask.png,A black-haired woman with glasses is playing with a trumpet.
+cable_ground_truth_poke_insulation_007_mask.png,A man with glasses and a black hat is sitting in a chair.
+cable_ground_truth_poke_insulation_008_mask.png,A man with a black hat and glasses is holding a red liquid.
+cable_ground_truth_poke_insulation_009_mask.png,Man with glasses and a black shirt is looking at something.
+capsule_ground_truth_crack_000_mask.png,A black man with a red shirt and black pants is running.
+capsule_ground_truth_crack_001_mask.png,Man with a black hat and glasses is holding a torch.
+capsule_ground_truth_crack_002_mask.png,A man in a black shirt with a red tie is walking.
+capsule_ground_truth_crack_003_mask.png,A woman in a black suit is walking.
+capsule_ground_truth_crack_004_mask.png,A black man with a red shirt and black hat is running.
+capsule_ground_truth_crack_005_mask.png,A man with a black hat and glasses is holding a piece of paper in his hand.
+capsule_ground_truth_crack_006_mask.png,A woman in a black dress is standing in the middle of the street.
+capsule_ground_truth_crack_007_mask.png,A woman in a black dress is running.
+capsule_ground_truth_crack_008_mask.png,A man in a black shirt is walking through a crowd.
+capsule_ground_truth_crack_009_mask.png,A man in a black suit is holding a trumpet.
+capsule_ground_truth_crack_010_mask.png,A man with glasses and a black hat is looking at the camera.
+capsule_ground_truth_crack_011_mask.png,A man in a black hat and glasses is looking at the camera.
+capsule_ground_truth_crack_012_mask.png,A black-haired man with glasses is looking at something.
+capsule_ground_truth_crack_013_mask.png,Man with glasses and a white shirt is standing in a crowd.
+capsule_ground_truth_crack_014_mask.png,A man in a red shirt is looking at a computer screen.
+capsule_ground_truth_crack_015_mask.png,A man in a black suit is playing with a ball.
+capsule_ground_truth_crack_016_mask.png,A man in a black shirt is running.
+capsule_ground_truth_crack_017_mask.png,A woman in a black shirt is walking.
+capsule_ground_truth_crack_018_mask.png,Woman in a red shirt with a white stripe on her shirt is holding a piece of paper.
+capsule_ground_truth_crack_019_mask.png,Man in a black shirt with a white hat and glasses is walking.
+capsule_ground_truth_crack_020_mask.png,Man in a white shirt is looking at something.
+capsule_ground_truth_crack_021_mask.png,A man in a white shirt is running.
+capsule_ground_truth_crack_022_mask.png,A woman in a white shirt is running.
+capsule_ground_truth_faulty_imprint_000_mask.png,A man in a black suit is playing the piano.
+capsule_ground_truth_faulty_imprint_001_mask.png,A woman in a red shirt is holding a piece of paper in her hand.
+capsule_ground_truth_faulty_imprint_002_mask.png,A man with glasses and a black hat is standing in a crowd.
+capsule_ground_truth_faulty_imprint_003_mask.png,A woman in a black shirt is looking at something.
+capsule_ground_truth_faulty_imprint_004_mask.png,Man in a blue shirt with a white stripe on his shirt is looking at something.
+capsule_ground_truth_faulty_imprint_005_mask.png,Two men with glasses are looking at something.
+capsule_ground_truth_faulty_imprint_006_mask.png,Young woman in a black shirt and white skirt is playing with a chessboard.
+capsule_ground_truth_faulty_imprint_007_mask.png,A woman in a red shirt is looking at something.
+capsule_ground_truth_faulty_imprint_008_mask.png,Two women in glasses are playing with a ball.
+capsule_ground_truth_faulty_imprint_009_mask.png,A woman in a red coat is looking at something.
+capsule_ground_truth_faulty_imprint_010_mask.png,A man in a red shirt is looking at the camera.
+capsule_ground_truth_faulty_imprint_011_mask.png,A man in a black shirt is holding a cup.
+capsule_ground_truth_faulty_imprint_012_mask.png,A man in a red shirt is holding a cup.
+capsule_ground_truth_faulty_imprint_013_mask.png,A woman in a black shirt is pouring a liquid into a glass.
+capsule_ground_truth_faulty_imprint_014_mask.png,A black man with glasses is looking at something.
+capsule_ground_truth_faulty_imprint_015_mask.png,A man in a white shirt is holding a piece of paper in his hand.
+capsule_ground_truth_faulty_imprint_016_mask.png,A black-haired woman with a red scarf on her head is looking at something.
+capsule_ground_truth_faulty_imprint_017_mask.png,A woman with glasses is looking at something.
+capsule_ground_truth_faulty_imprint_018_mask.png,A man in a black shirt is standing in the middle of a crowd.
+capsule_ground_truth_faulty_imprint_019_mask.png,A man in a black suit is walking in front of a large crowd.
+capsule_ground_truth_faulty_imprint_020_mask.png,A black man with glasses is playing with a ball.
+capsule_ground_truth_faulty_imprint_021_mask.png,A black-haired man with glasses and a white beard is standing in a doorway.
+capsule_ground_truth_poke_000_mask.png,A man in a black suit is carrying a red bag.
+capsule_ground_truth_poke_001_mask.png,A woman in a black coat is looking at something.
+capsule_ground_truth_poke_002_mask.png,A man in a red shirt is walking through the street.
+capsule_ground_truth_poke_003_mask.png,A man in a red shirt is standing in the middle of a crowd.
+capsule_ground_truth_poke_004_mask.png,A young man with a blue shirt and glasses is running through the lab.
+capsule_ground_truth_poke_005_mask.png,Woman in a white shirt with a black hat is walking.
+capsule_ground_truth_poke_006_mask.png,A man in a black shirt is walking through a crowd.
+capsule_ground_truth_poke_007_mask.png,A man in a white shirt is running with a ball in his hand.
+capsule_ground_truth_poke_008_mask.png,A man with a white shirt and black hair is swimming.
+capsule_ground_truth_poke_009_mask.png,A man in a black shirt is throwing a ball.
+capsule_ground_truth_poke_010_mask.png,A woman in a black shirt is holding a piece of paper in her hand.
+capsule_ground_truth_poke_011_mask.png,A woman in a white shirt is holding a piece of paper.
+capsule_ground_truth_poke_012_mask.png,A woman in a red coat is holding a ball.
+capsule_ground_truth_poke_013_mask.png,A black man with a white hat is walking through a crowd.
+capsule_ground_truth_poke_014_mask.png,A woman in a white shirt is running.
+capsule_ground_truth_poke_015_mask.png,A woman in a black shirt is running.
+capsule_ground_truth_poke_016_mask.png,A man in a red shirt is holding a ball.
+capsule_ground_truth_poke_017_mask.png,A man in a black shirt is holding a ball.
+capsule_ground_truth_poke_018_mask.png,A man in a black shirt is looking at the camera.
+capsule_ground_truth_poke_019_mask.png,A woman in a white lab coat is pouring a liquid into a glass.
+capsule_ground_truth_poke_020_mask.png,Aureus with a red nose and a white beard is looking at the camera.
+capsule_ground_truth_scratch_000_mask.png,Man in a black shirt is holding a ball.
+capsule_ground_truth_scratch_001_mask.png,A woman in a white shirt is holding a ball.
+capsule_ground_truth_scratch_002_mask.png,A black and white dog swims in the water.
+capsule_ground_truth_scratch_003_mask.png,A black-haired man with a red tie is holding a piece of paper in his hand.
+capsule_ground_truth_scratch_004_mask.png,A black-haired man with glasses is looking at something.
+capsule_ground_truth_scratch_005_mask.png,A woman in a red shirt is standing in front of a large sign.
+capsule_ground_truth_scratch_006_mask.png,A man in a black suit is looking at something in the distance.
+capsule_ground_truth_scratch_007_mask.png,A woman in a black dress is running.
+capsule_ground_truth_scratch_008_mask.png,A black-haired man with glasses is standing in front of a pool of water.
+capsule_ground_truth_scratch_009_mask.png,A woman with glasses is wearing a black shirt and a red hat.
+capsule_ground_truth_scratch_010_mask.png,A woman in a black dress is holding a sword.
+capsule_ground_truth_scratch_011_mask.png,A man with glasses and a black shirt is playing with a ball.
+capsule_ground_truth_scratch_012_mask.png,A woman in a black coat is holding a red cup.
+capsule_ground_truth_scratch_013_mask.png,A black-haired man in a red shirt is running.
+capsule_ground_truth_scratch_014_mask.png,Two people are wearing glasses and one is wearing a black jacket.
+capsule_ground_truth_scratch_015_mask.png,Man with glasses and a white shirt is holding a drink.
+capsule_ground_truth_scratch_016_mask.png,A black man with a red nose and a black shirt is walking.
+capsule_ground_truth_scratch_017_mask.png,A person with a red shirt is looking at something.
+capsule_ground_truth_scratch_018_mask.png,A man in a black coat is walking.
+capsule_ground_truth_scratch_019_mask.png,A woman in a black suit is swimming.
+capsule_ground_truth_scratch_020_mask.png,Man in a black suit is looking at something.
+capsule_ground_truth_scratch_021_mask.png,Man in a black shirt with glasses is looking at something.
+capsule_ground_truth_scratch_022_mask.png,A black-haired man with glasses is looking at something.
+capsule_ground_truth_squeeze_000_mask.png,A man in a black suit is speaking into a microphone.
+capsule_ground_truth_squeeze_001_mask.png,A surgeon is performing a surgery.
+capsule_ground_truth_squeeze_002_mask.png,A black and white dog is running through the grass.
+capsule_ground_truth_squeeze_003_mask.png,A man in a black shirt is holding a piece of paper.
+capsule_ground_truth_squeeze_004_mask.png,A black-haired man with glasses and a black hat is holding a piece of paper.
+capsule_ground_truth_squeeze_005_mask.png,A man in a black jacket is standing in front of a car.
+capsule_ground_truth_squeeze_006_mask.png,A man in a suit is looking at a machine.
+capsule_ground_truth_squeeze_007_mask.png,A surgeon is performing a surgery.
+capsule_ground_truth_squeeze_008_mask.png,A black and white dog is wearing a white collar.
+capsule_ground_truth_squeeze_009_mask.png,Is sitting on the sidewalk with his hands in his pockets.
+capsule_ground_truth_squeeze_010_mask.png,A woman in a black jacket and glasses is looking at something.
+capsule_ground_truth_squeeze_011_mask.png,Man with glasses and a white beard is wearing a black suit and tie.
+capsule_ground_truth_squeeze_012_mask.png,A man in a suit is standing in front of a table with a whiteboard.
+capsule_ground_truth_squeeze_013_mask.png,A man with a black hat is holding a piece of paper in his hand.
+capsule_ground_truth_squeeze_014_mask.png,A man in a suit is sitting at a table with a laptop and a tablecloth.
+capsule_ground_truth_squeeze_015_mask.png,A man with a red hat is standing in front of a sign.
+capsule_ground_truth_squeeze_016_mask.png,A man in a white shirt is looking at something.
+capsule_ground_truth_squeeze_017_mask.png,A man with a black hat is standing in front of a sign.
+capsule_ground_truth_squeeze_018_mask.png,A man with glasses is standing in front of a mirror.
+capsule_ground_truth_squeeze_019_mask.png,Man with glasses and a black hat is standing in front of a table with a white tablecloth.
+carpet_ground_truth_color_000_mask.png,A group of people are playing a game.
+carpet_ground_truth_color_001_mask.png,A black man with glasses is playing with a ball.
+carpet_ground_truth_color_002_mask.png,Man with glasses and a black shirt is playing with a toy.
+carpet_ground_truth_color_003_mask.png,A man in a black shirt is looking at something.
+carpet_ground_truth_color_004_mask.png,A group of people are standing around a table with a drink in front of them.
+carpet_ground_truth_color_005_mask.png,A man with glasses is playing with a red ball.
+carpet_ground_truth_color_006_mask.png,A black-haired man with glasses is looking at something.
+carpet_ground_truth_color_007_mask.png,A black-haired man with glasses is looking at something.
+carpet_ground_truth_color_008_mask.png,A group of people are playing a game.
+carpet_ground_truth_color_009_mask.png,A man with a black hat and glasses is standing in a crowd.
+carpet_ground_truth_color_010_mask.png,A black man with a red shirt and black hat is playing with a ball.
+carpet_ground_truth_color_011_mask.png,A man in a black shirt is playing the violin.
+carpet_ground_truth_color_012_mask.png,A man with a red shirt and glasses is smiling.
+carpet_ground_truth_color_013_mask.png,Young men in a crowd are wearing white shirts and black pants.
+carpet_ground_truth_color_014_mask.png,A man in a black shirt is standing in a crowd.
+carpet_ground_truth_color_015_mask.png,A black-haired man with glasses is playing with a ball.
+carpet_ground_truth_color_016_mask.png,A woman in a red shirt is running.
+carpet_ground_truth_color_017_mask.png,A man in a black shirt and a woman in a red shirt are walking in a crowd.
+carpet_ground_truth_color_018_mask.png,A man in a red shirt is playing a game with a ball.
+carpet_ground_truth_cut_000_mask.png,Man in a suit is looking at a map.
+carpet_ground_truth_cut_001_mask.png,A man with glasses is wearing a black shirt and a black hat.
+carpet_ground_truth_cut_002_mask.png,A man in a black hat is looking at the camera.
+carpet_ground_truth_cut_003_mask.png,A man in a white shirt is holding a torch.
+carpet_ground_truth_cut_004_mask.png,A black-haired man with glasses is looking at something.
+carpet_ground_truth_cut_005_mask.png,A man with a black hat and glasses is wearing a white shirt and black glasses.
+carpet_ground_truth_cut_006_mask.png,A man with glasses and a white shirt is looking at something.
+carpet_ground_truth_cut_007_mask.png,A man with glasses and a black shirt is playing with a ball.
+carpet_ground_truth_cut_008_mask.png,A man in a black shirt is holding a red ball.
+carpet_ground_truth_cut_009_mask.png,A man with a black hat and glasses is working on a project.
+carpet_ground_truth_cut_010_mask.png,A group of people are standing in a field.
+carpet_ground_truth_cut_011_mask.png,A man with glasses is playing with a paintbrush.
+carpet_ground_truth_cut_012_mask.png,A man with glasses and a black hat is looking at something.
+carpet_ground_truth_cut_013_mask.png,Man with glasses is playing a game.
+carpet_ground_truth_cut_014_mask.png,Man with glasses and a black hat is playing with a drum.
+carpet_ground_truth_cut_015_mask.png,A man with glasses is looking at something in the distance.
+carpet_ground_truth_cut_016_mask.png,Man with glasses and a white shirt is looking at something.
+carpet_ground_truth_hole_000_mask.png,A man with glasses is wearing a red shirt and a black hat.
+carpet_ground_truth_hole_001_mask.png,A man with glasses is looking at something.
+carpet_ground_truth_hole_002_mask.png,A man with glasses and a black shirt is standing in a crowd.
+carpet_ground_truth_hole_003_mask.png,A man with glasses is looking at something in a bowl.
+carpet_ground_truth_hole_004_mask.png,A man in a white shirt is standing in a crowd.
+carpet_ground_truth_hole_005_mask.png,A group of people are playing a game.
+carpet_ground_truth_hole_006_mask.png,Man with glasses and a black hat is looking at something.
+carpet_ground_truth_hole_007_mask.png,Man in a black shirt is looking at something.
+carpet_ground_truth_hole_008_mask.png,Man in a black shirt with a white hat is looking at something.
+carpet_ground_truth_hole_009_mask.png,Actor in black shirt playing with a piece of paper.
+carpet_ground_truth_hole_010_mask.png,A group of people are playing a game.
+carpet_ground_truth_hole_011_mask.png,A man in a black shirt is looking at something in the distance.
+carpet_ground_truth_hole_012_mask.png,A black man with glasses is standing in a crowd.
+carpet_ground_truth_hole_013_mask.png,A man in a white shirt is wearing a black shirt and a black hat.
+carpet_ground_truth_hole_014_mask.png,Man with glasses and a white shirt is holding a red ball.
+carpet_ground_truth_hole_015_mask.png,A man with glasses is playing with a ball.
+carpet_ground_truth_hole_016_mask.png,A man with glasses is looking at the camera.
+carpet_ground_truth_metal_contamination_000_mask.png,A man with a red shirt and glasses is looking at something.
+carpet_ground_truth_metal_contamination_001_mask.png,A woman in a white shirt is playing with a ball.
+carpet_ground_truth_metal_contamination_002_mask.png,A man in a black shirt is swimming.
+carpet_ground_truth_metal_contamination_003_mask.png,A person with a white shirt and black pants is standing in a field.
+carpet_ground_truth_metal_contamination_004_mask.png,A man with a black shirt and white hat is walking.
+carpet_ground_truth_metal_contamination_005_mask.png,A baseball player in a red uniform is running.
+carpet_ground_truth_metal_contamination_006_mask.png,Black-haired woman with a red scarf on her head is playing with a black ball.
+carpet_ground_truth_metal_contamination_007_mask.png,A baseball player in a red uniform is running.
+carpet_ground_truth_metal_contamination_008_mask.png,Man in a white shirt with glasses is looking at something.
+carpet_ground_truth_metal_contamination_009_mask.png,A woman in a white lab coat is applying mascara.
+carpet_ground_truth_metal_contamination_010_mask.png,A man in a black suit is swimming.
+carpet_ground_truth_metal_contamination_011_mask.png,A white man with glasses is holding a ball.
+carpet_ground_truth_metal_contamination_012_mask.png,A woman in a white shirt is running.
+carpet_ground_truth_metal_contamination_013_mask.png,A woman with a white shirt and black hair is running.
+carpet_ground_truth_metal_contamination_014_mask.png,A black-haired woman with a white shirt and black hair is swimming.
+carpet_ground_truth_metal_contamination_015_mask.png,A man with a white shirt and black hat is standing in front of a large crowd.
+carpet_ground_truth_metal_contamination_016_mask.png,A woman in a black suit is walking through the water.
+carpet_ground_truth_thread_000_mask.png,Man in a black shirt with a red tie is standing in a crowd.
+carpet_ground_truth_thread_001_mask.png,A man with a red shirt and black hat is standing in a crowd.
+carpet_ground_truth_thread_002_mask.png,A man in a black jacket is walking through a crowd.
+carpet_ground_truth_thread_003_mask.png,A black man with a red shirt and black pants is running.
+carpet_ground_truth_thread_004_mask.png,A black-haired man with glasses is holding a red object.
+carpet_ground_truth_thread_005_mask.png,A black and white dog is running.
+carpet_ground_truth_thread_006_mask.png,A man with a black hat and a white shirt is walking.
+carpet_ground_truth_thread_007_mask.png,A black-haired man with a red shirt is standing in front of a white wall with a large sign.
+carpet_ground_truth_thread_008_mask.png,Two men are standing in front of a large mirror.
+carpet_ground_truth_thread_009_mask.png,A woman in a black coat is walking through the street.
+carpet_ground_truth_thread_010_mask.png,A black and white dog is running.
+carpet_ground_truth_thread_011_mask.png,A black man with a red shirt is running.
+carpet_ground_truth_thread_012_mask.png,Actor in black suit playing with a piece of paper.
+carpet_ground_truth_thread_013_mask.png,A man with glasses is looking at something.
+carpet_ground_truth_thread_014_mask.png,A black-haired man with glasses is looking at something.
+carpet_ground_truth_thread_015_mask.png,A man in a yellow shirt is standing in front of a large machine.
+carpet_ground_truth_thread_016_mask.png,A black and white robot is standing in front of a white wall.
+carpet_ground_truth_thread_017_mask.png,A black-haired man with a red tie is holding a trumpet.
+carpet_ground_truth_thread_018_mask.png,A man with glasses is running with his hands in his pockets.
+grid_ground_truth_bent_000_mask.png,Men with black hair and red shirts are playing in a pool.
+grid_ground_truth_bent_001_mask.png,A man with glasses is wearing a black shirt and a white hat.
+grid_ground_truth_bent_002_mask.png,Scientists are looking at something.
+grid_ground_truth_bent_003_mask.png,Men in a crowd are looking at something.
+grid_ground_truth_bent_004_mask.png,A man with glasses is standing in a crowd.
+grid_ground_truth_bent_005_mask.png,A group of people are swimming.
+grid_ground_truth_bent_006_mask.png,Black swans are swimming in the water.
+grid_ground_truth_bent_007_mask.png,Man with glasses and a black shirt is singing.
+grid_ground_truth_bent_008_mask.png,Man in a black shirt with a white hat is playing with a piece of paper.
+grid_ground_truth_bent_009_mask.png,A white-haired man with glasses is holding a piece of paper.
+grid_ground_truth_bent_010_mask.png,A black woman with a white shirt and black hair is applying makeup.
+grid_ground_truth_bent_011_mask.png,Man with glasses and a black shirt is dancing.
+grid_ground_truth_broken_000_mask.png,Group of people are swimming.
+grid_ground_truth_broken_001_mask.png,Group of people are standing around a table.
+grid_ground_truth_broken_002_mask.png,A man with a red shirt and black hat is holding a torch.
+grid_ground_truth_broken_003_mask.png,A black man with a white shirt and black hair is walking through the water.
+grid_ground_truth_broken_004_mask.png,A man in a white shirt is playing with a ball.
+grid_ground_truth_broken_005_mask.png,A black man with glasses is playing with a ball.
+grid_ground_truth_broken_006_mask.png,A black man with glasses is playing with a ball.
+grid_ground_truth_broken_007_mask.png,A man in a red shirt is looking at something.
+grid_ground_truth_broken_008_mask.png,Men in black shirts are playing with balls.
+grid_ground_truth_broken_009_mask.png,A black man with glasses is playing with a ball.
+grid_ground_truth_broken_010_mask.png,Two men in black shirts are swimming.
+grid_ground_truth_broken_011_mask.png,A black man with glasses and a white shirt is playing with a ball.
+grid_ground_truth_glue_000_mask.png,Actor in black shirt playing with a red ball.
+grid_ground_truth_glue_001_mask.png,Man in a black shirt is pouring liquid into a glass.
+grid_ground_truth_glue_002_mask.png,A man with glasses and a black hat is looking at something.
+grid_ground_truth_glue_003_mask.png,A woman in a red shirt is holding a ball.
+grid_ground_truth_glue_004_mask.png,A black-haired man with glasses is looking at something.
+grid_ground_truth_glue_005_mask.png,Man in a white shirt is looking at the camera.
+grid_ground_truth_glue_006_mask.png,A black-haired man with glasses is looking at something.
+grid_ground_truth_glue_007_mask.png,A black man with glasses is looking at the camera.
+grid_ground_truth_glue_008_mask.png,A man with a red shirt and black hat is standing in the middle of a crowd.
+grid_ground_truth_glue_009_mask.png,Man in a black shirt with a red tie is looking at the camera.
+grid_ground_truth_glue_010_mask.png,A woman with a red shirt and black hat is playing with a ball.
+grid_ground_truth_metal_contamination_000_mask.png,Man with glasses and a white shirt is looking at something.
+grid_ground_truth_metal_contamination_001_mask.png,A black man in a red shirt is playing with a ball.
+grid_ground_truth_metal_contamination_002_mask.png,A black man with glasses is holding a piece of paper in his hand.
+grid_ground_truth_metal_contamination_003_mask.png,A man with glasses is playing with a ball.
+grid_ground_truth_metal_contamination_004_mask.png,A man in a red shirt is running.
+grid_ground_truth_metal_contamination_005_mask.png,A man in a white shirt is playing with a ball.
+grid_ground_truth_metal_contamination_006_mask.png,A woman with a red shirt and black hat is standing in the middle of a crowd.
+grid_ground_truth_metal_contamination_007_mask.png,Man in a white shirt with a black hat is holding a piece of paper in his hand.
+grid_ground_truth_metal_contamination_008_mask.png,Man in a black shirt is playing with a ball.
+grid_ground_truth_metal_contamination_009_mask.png,A man with glasses is wearing a black shirt and a white hat.
+grid_ground_truth_metal_contamination_010_mask.png,A man with a black shirt and red tie is standing in a crowd.
+grid_ground_truth_thread_000_mask.png,A woman with glasses is playing the violin.
+grid_ground_truth_thread_001_mask.png,A black man with glasses is wearing a white shirt and black pants.
+grid_ground_truth_thread_002_mask.png,A black and white dog is running.
+grid_ground_truth_thread_003_mask.png,A man with a white shirt and black pants is walking.
+grid_ground_truth_thread_004_mask.png,A black-haired man with a white shirt and glasses is standing next to a sign.
+grid_ground_truth_thread_005_mask.png,Man with glasses and a black shirt is playing with a keyboard.
+grid_ground_truth_thread_006_mask.png,A baseball player with a red shirt is standing in front of a crowd.
+grid_ground_truth_thread_007_mask.png,A man in a yellow shirt is walking.
+grid_ground_truth_thread_008_mask.png,A man in a yellow shirt is walking on the street.
+grid_ground_truth_thread_009_mask.png,A man with glasses is looking at something.
+grid_ground_truth_thread_010_mask.png,A white dog is standing in front of a group of people.
+hazelnut_ground_truth_crack_000_mask.png,A man with glasses is drinking from a glass.
+hazelnut_ground_truth_crack_001_mask.png,Man with glasses is looking at a piece of paper.
+hazelnut_ground_truth_crack_002_mask.png,A black man with glasses is holding a piece of paper in his hand.
+hazelnut_ground_truth_crack_003_mask.png,Black man with glasses and a black hat is standing in front of a wall with a sign on it.
+hazelnut_ground_truth_crack_004_mask.png,A brunette with a red shirt and black hair is smiling.
+hazelnut_ground_truth_crack_005_mask.png,A man in a suit is walking down the street.
+hazelnut_ground_truth_crack_006_mask.png,A black-haired woman with glasses is holding a drink.
+hazelnut_ground_truth_crack_007_mask.png,A man with a white hat is holding a red ball.
+hazelnut_ground_truth_crack_008_mask.png,A man with glasses is wearing a red shirt and a white hat.
+hazelnut_ground_truth_crack_009_mask.png,Man with glasses and a white shirt is playing the piano.
+hazelnut_ground_truth_crack_010_mask.png,A man with a white beard and glasses is wearing a suit and tie.
+hazelnut_ground_truth_crack_011_mask.png,A person with glasses is holding a liquid colored liquid.
+hazelnut_ground_truth_crack_012_mask.png,A black and white dog is looking at something.
+hazelnut_ground_truth_crack_013_mask.png,A man with a black hat and white shirt is running.
+hazelnut_ground_truth_crack_014_mask.png,Student in a black shirt is looking at the camera.
+hazelnut_ground_truth_crack_015_mask.png,A man with glasses is speaking into a microphone.
+hazelnut_ground_truth_crack_016_mask.png,A black-haired man with a red shirt is holding a piece of paper with a white circle on it.
+hazelnut_ground_truth_crack_017_mask.png,A man with glasses is holding a piece of paper.
+hazelnut_ground_truth_cut_000_mask.png,A man in a white shirt is running with his hands in the air.
+hazelnut_ground_truth_cut_001_mask.png,A black-haired man with glasses is looking at something in a glass case.
+hazelnut_ground_truth_cut_002_mask.png,A man in a red shirt is looking at the camera.
+hazelnut_ground_truth_cut_003_mask.png,A woman in a red coat is looking at something.
+hazelnut_ground_truth_cut_004_mask.png,A man with glasses is pouring a liquid into a glass.
+hazelnut_ground_truth_cut_005_mask.png,A woman in a black coat is walking in the rain.
+hazelnut_ground_truth_cut_006_mask.png,A man with glasses is holding a drink in his hand.
+hazelnut_ground_truth_cut_007_mask.png,Man with glasses and a black hat is holding a piece of paper in his hand.
+hazelnut_ground_truth_cut_008_mask.png,A black-haired man with a black shirt and black hair is standing in front of a pool of water.
+hazelnut_ground_truth_cut_009_mask.png,A black man with a white shirt and black hat is walking.
+hazelnut_ground_truth_cut_010_mask.png,A man with a red shirt and black hat is holding a piece of paper in his hand.
+hazelnut_ground_truth_cut_011_mask.png,A man in a black suit is standing in a crowd.
+hazelnut_ground_truth_cut_012_mask.png,A woman with a black hat and glasses is standing in a crowd.
+hazelnut_ground_truth_cut_013_mask.png,A man in a red shirt is pouring a liquid into a cup.
+hazelnut_ground_truth_cut_014_mask.png,A man in a black shirt is running.
+hazelnut_ground_truth_cut_015_mask.png,A black-haired man with glasses is holding a microphone.
+hazelnut_ground_truth_cut_016_mask.png,A black man with a red tie is running.
+hazelnut_ground_truth_hole_000_mask.png,A black man with a red shirt and white hat is standing in the middle of a crowd.
+hazelnut_ground_truth_hole_001_mask.png,A man with a black hat and a red shirt is looking at something.
+hazelnut_ground_truth_hole_002_mask.png,A person with a red shirt and sunglasses is standing in a crowd.
+hazelnut_ground_truth_hole_003_mask.png,A black-haired man with glasses is looking at something.
+hazelnut_ground_truth_hole_004_mask.png,A white-haired man with glasses is looking at something in the distance.
+hazelnut_ground_truth_hole_005_mask.png,A man with glasses is looking at something.
+hazelnut_ground_truth_hole_006_mask.png,A black and white dog swims through the water.
+hazelnut_ground_truth_hole_007_mask.png,A man in a white shirt is playing with a ball.
+hazelnut_ground_truth_hole_008_mask.png,A man in a red shirt is looking at the camera.
+hazelnut_ground_truth_hole_009_mask.png,A black-haired man with a red collar is looking at something in the distance.
+hazelnut_ground_truth_hole_010_mask.png,A black-haired man with glasses is swimming.
+hazelnut_ground_truth_hole_011_mask.png,A black-haired man with glasses is looking at something.
+hazelnut_ground_truth_hole_012_mask.png,A black-haired man with glasses is holding a piece of paper in his hand.
+hazelnut_ground_truth_hole_013_mask.png,Actor in black shirt with red tie is speaking into a microphone.
+hazelnut_ground_truth_hole_014_mask.png,A white bird with a red beak is holding a red feather.
+hazelnut_ground_truth_hole_015_mask.png,A man with glasses is looking at something.
+hazelnut_ground_truth_hole_016_mask.png,A man with glasses is pouring a liquid into a glass.
+hazelnut_ground_truth_hole_017_mask.png,A black-haired man with glasses is playing with a ball.
+hazelnut_ground_truth_print_000_mask.png,A man in a black suit is working on a project.
+hazelnut_ground_truth_print_001_mask.png,A man with glasses and a black shirt is smiling.
+hazelnut_ground_truth_print_002_mask.png,A white man with glasses and a white shirt is standing in a room with a group of other men.
+hazelnut_ground_truth_print_003_mask.png,A black-haired man with glasses is holding a red ball.
+hazelnut_ground_truth_print_004_mask.png,A black man with glasses is playing the piano.
+hazelnut_ground_truth_print_005_mask.png,A man with glasses is pouring a liquid into a glass.
+hazelnut_ground_truth_print_006_mask.png,A woman with a black shirt and a white shirt is holding a piece of paper.
+hazelnut_ground_truth_print_007_mask.png,A black-haired woman with glasses is looking at something.
+hazelnut_ground_truth_print_008_mask.png,Actor in a black shirt is holding a piece of paper in his right hand.
+hazelnut_ground_truth_print_009_mask.png,A man with glasses and a black shirt is standing in front of a table with a white tablecloth.
+hazelnut_ground_truth_print_010_mask.png,A black man with a white hat and a black shirt is standing in front of a crowd.
+hazelnut_ground_truth_print_011_mask.png,A black-haired man in a black shirt is looking at a screen.
+hazelnut_ground_truth_print_012_mask.png,Man with glasses and a black hat is holding a piece of paper in his hand.
+hazelnut_ground_truth_print_013_mask.png,A man in a black suit is looking at something in the distance.
+hazelnut_ground_truth_print_014_mask.png,A group of people are working on a project.
+hazelnut_ground_truth_print_015_mask.png,A black-haired man with glasses is pouring a liquid from a bottle into a glass.
+hazelnut_ground_truth_print_016_mask.png,A man with glasses is running in a race.
+leather_ground_truth_color_000_mask.png,A black man with a white shirt and black pants is walking through a crowd.
+leather_ground_truth_color_001_mask.png,A black man with glasses is walking through a crowd.
+leather_ground_truth_color_002_mask.png,A black-haired woman with glasses is playing with a ball.
+leather_ground_truth_color_003_mask.png,A man in a black shirt is playing the piano.
+leather_ground_truth_color_004_mask.png,A man in a black shirt is smiling.
+leather_ground_truth_color_005_mask.png,A woman in a black shirt is walking.
+leather_ground_truth_color_006_mask.png,A man in a black shirt is running with his hands in the air.
+leather_ground_truth_color_007_mask.png,A black-haired man in a black shirt is running with a ball in his hand.
+leather_ground_truth_color_008_mask.png,A man in a black suit is standing in a crowd.
+leather_ground_truth_color_009_mask.png,A black man with a white shirt and black hair is running.
+leather_ground_truth_color_010_mask.png,Woman in a white shirt is running.
+leather_ground_truth_color_011_mask.png,A black man in a red shirt is throwing a ball.
+leather_ground_truth_color_012_mask.png,A woman in a black shirt is throwing a dart.
+leather_ground_truth_color_013_mask.png,A black-haired man with a red shirt and black pants is running.
+leather_ground_truth_color_014_mask.png,Man in a white shirt with a black hat is walking.
+leather_ground_truth_color_015_mask.png,Young man in a black shirt and white shorts is running.
+leather_ground_truth_color_016_mask.png,A woman in a red shirt is standing in a crowd.
+leather_ground_truth_color_017_mask.png,A black-haired woman with a white shirt and black hair is standing in front of a mirror.
+leather_ground_truth_color_018_mask.png,A man in a red shirt is running.
+leather_ground_truth_cut_000_mask.png,A woman in a red shirt is standing in a crowd.
+leather_ground_truth_cut_001_mask.png,A man with glasses is wearing a black shirt and a red tie is standing in a crowd.
+leather_ground_truth_cut_002_mask.png,A man in a red shirt is pouring a liquid into a cup.
+leather_ground_truth_cut_003_mask.png,A black man with glasses is wearing a black shirt and a black hat.
+leather_ground_truth_cut_004_mask.png,A man with glasses is playing the trumpet.
+leather_ground_truth_cut_005_mask.png,A man in a red shirt is pouring a liquid into a cup.
+leather_ground_truth_cut_006_mask.png,A man in a lab coat is running through a crowd.
+leather_ground_truth_cut_007_mask.png,A woman in a black shirt is playing with a red ball.
+leather_ground_truth_cut_008_mask.png,A woman in a black jacket is walking through a crowd.
+leather_ground_truth_cut_009_mask.png,A man in a black shirt is running through a crowd.
+leather_ground_truth_cut_010_mask.png,A man in a black shirt is running with his hands in the air.
+leather_ground_truth_cut_011_mask.png,Man in a black shirt with a white stripe on his shirt is holding a piece of paper in his hand.
+leather_ground_truth_cut_012_mask.png,A man in a red shirt is holding a piece of paper in his hand.
+leather_ground_truth_cut_013_mask.png,A woman in a red shirt is looking at something in the distance.
+leather_ground_truth_cut_014_mask.png,A black man with glasses is running.
+leather_ground_truth_cut_015_mask.png,Man in a black shirt with a white stripe on his shirt is looking at the camera.
+leather_ground_truth_cut_016_mask.png,A group of people are looking at something.
+leather_ground_truth_cut_017_mask.png,A black man with a red shirt and black hat is standing in a crowd.
+leather_ground_truth_cut_018_mask.png,A man with a black hat and glasses is looking at the camera.
+leather_ground_truth_fold_000_mask.png,Man with glasses and a white shirt is smiling.
+leather_ground_truth_fold_001_mask.png,A man with a black shirt and white hat is running.
+leather_ground_truth_fold_002_mask.png,A man in a black shirt is looking at something in the distance.
+leather_ground_truth_fold_003_mask.png,A black-haired man with a red tie is looking at something.
+leather_ground_truth_fold_004_mask.png,Man with glasses and a white shirt is walking.
+leather_ground_truth_fold_005_mask.png,A black man with a white shirt and black hair is standing in front of a pool of water.
+leather_ground_truth_fold_006_mask.png,A man with glasses is looking at something.
+leather_ground_truth_fold_007_mask.png,Man in a white shirt and glasses is working on a project.
+leather_ground_truth_fold_008_mask.png,Man with glasses and a white shirt is walking.
+leather_ground_truth_fold_009_mask.png,A man in a black hat is holding a piece of paper in his hand.
+leather_ground_truth_fold_010_mask.png,Men with glasses are standing in a crowd.
+leather_ground_truth_fold_011_mask.png,Man in a black shirt with a red tie is looking at something.
+leather_ground_truth_fold_012_mask.png,A man with glasses and a black hat is looking at something.
+leather_ground_truth_fold_013_mask.png,Man with glasses and a white shirt is holding a red object in his hand.
+leather_ground_truth_fold_014_mask.png,Two men in winter coats are looking at something.
+leather_ground_truth_fold_015_mask.png,A black man with a red shirt and black hat is standing in front of a crowd.
+leather_ground_truth_fold_016_mask.png,A group of men are standing in a line.
+leather_ground_truth_glue_000_mask.png,A man in a black shirt is playing with a ball.
+leather_ground_truth_glue_001_mask.png,A man in a black shirt is looking at something.
+leather_ground_truth_glue_002_mask.png,Actor in black shirt with red tie is holding a piece of paper.
+leather_ground_truth_glue_003_mask.png,A man with glasses and a black shirt is looking at something in the distance.
+leather_ground_truth_glue_004_mask.png,A woman in a red shirt is pouring water over her face.
+leather_ground_truth_glue_005_mask.png,A man in a black shirt is playing a game with a ball.
+leather_ground_truth_glue_006_mask.png,A man with glasses is looking at something in the distance.
+leather_ground_truth_glue_007_mask.png,A man in a red shirt is throwing a ball.
+leather_ground_truth_glue_008_mask.png,A man in a black shirt is throwing a dart.
+leather_ground_truth_glue_009_mask.png,A man in a black suit is standing in the middle of a crowd.
+leather_ground_truth_glue_010_mask.png,A black man with a red shirt and black hat is standing in the middle of a crowd.
+leather_ground_truth_glue_011_mask.png,A man in a red shirt is playing with a ball.
+leather_ground_truth_glue_012_mask.png,A man with glasses is standing in the middle of a crowd.
+leather_ground_truth_glue_013_mask.png,A man in a black shirt is playing with a ball.
+leather_ground_truth_glue_014_mask.png,A group of people are playing a game.
+leather_ground_truth_glue_015_mask.png,A group of people are playing a game.
+leather_ground_truth_glue_016_mask.png,A black-haired man with glasses is playing with a ball.
+leather_ground_truth_glue_017_mask.png,A man in a black hat is looking at the camera.
+leather_ground_truth_glue_018_mask.png,A man in a black shirt is throwing a red ball.
+leather_ground_truth_poke_000_mask.png,Man in a white shirt with glasses is looking at something.
+leather_ground_truth_poke_001_mask.png,A man in a red shirt is looking at something.
+leather_ground_truth_poke_002_mask.png,A man in a red shirt is throwing a ball.
+leather_ground_truth_poke_003_mask.png,A man in a black hat is holding a torch.
+leather_ground_truth_poke_004_mask.png,A white man with glasses is holding a ball.
+leather_ground_truth_poke_005_mask.png,A man in a red shirt is looking at something.
+leather_ground_truth_poke_006_mask.png,A man in a red shirt is running with his hands in the air.
+leather_ground_truth_poke_007_mask.png,A black-haired man with a red shirt is playing with a ball in a pool.
+leather_ground_truth_poke_008_mask.png,A man in a red shirt is playing a game with a ball.
+leather_ground_truth_poke_009_mask.png,A man with glasses is playing with a ball.
+leather_ground_truth_poke_010_mask.png,A man in a red shirt is throwing a ball.
+leather_ground_truth_poke_011_mask.png,A man in a red shirt is looking at something.
+leather_ground_truth_poke_012_mask.png,Two men are playing a game.
+leather_ground_truth_poke_013_mask.png,A man in a red shirt is playing with a ball.
+leather_ground_truth_poke_014_mask.png,A man in a white shirt is throwing a ball.
+leather_ground_truth_poke_015_mask.png,Man in a black hat and glasses is looking at the camera.
+leather_ground_truth_poke_016_mask.png,A man in a black shirt is throwing a ball.
+leather_ground_truth_poke_017_mask.png,A woman in a red shirt is holding a ball.
+metal_nut_ground_truth_bent_000_mask.png,Actor in black suit with glasses and a black hat is standing in front of a table with a white tablecloth.
+metal_nut_ground_truth_bent_001_mask.png,A man with a white shirt and glasses is holding a drink in his hand.
+metal_nut_ground_truth_bent_002_mask.png,Man in a suit with a red tie is walking.
+metal_nut_ground_truth_bent_003_mask.png,A man with glasses and a black hat is standing in front of a table with a red tablecloth.
+metal_nut_ground_truth_bent_004_mask.png,Man with glasses and a black shirt is standing in a crowd.
+metal_nut_ground_truth_bent_005_mask.png,Man with glasses and a black hat is smiling.
+metal_nut_ground_truth_bent_006_mask.png,Man with glasses and a black hat is holding a drink.
+metal_nut_ground_truth_bent_007_mask.png,A black man with glasses and a red shirt is looking at something.
+metal_nut_ground_truth_bent_008_mask.png,A man with glasses is looking at something.
+metal_nut_ground_truth_bent_009_mask.png,Men in black shirts are looking at something.
+metal_nut_ground_truth_bent_010_mask.png,A woman with glasses is holding a piece of paper in her hand.
+metal_nut_ground_truth_bent_011_mask.png,Man with glasses and a black shirt is singing.
+metal_nut_ground_truth_bent_012_mask.png,Actor in black shirt with red tie is standing in front of a wall with a red background.
+metal_nut_ground_truth_bent_013_mask.png,Actor in black hat playing with a red cup.
+metal_nut_ground_truth_bent_014_mask.png,A black man with glasses is standing in a crowd.
+metal_nut_ground_truth_bent_015_mask.png,A black man with glasses is holding a piece of metal.
+metal_nut_ground_truth_bent_016_mask.png,A man with glasses and a black shirt is looking at something.
+metal_nut_ground_truth_bent_017_mask.png,A man in a suit is wearing a white hat and a black shirt.
+metal_nut_ground_truth_bent_018_mask.png,A man with a black shirt and red tie is pouring a liquid from a bottle into a glass.
+metal_nut_ground_truth_bent_019_mask.png,A man with glasses and a black hat is looking at something.
+metal_nut_ground_truth_bent_020_mask.png,A black man with a red hat and a white shirt is holding a drink.
+metal_nut_ground_truth_bent_021_mask.png,A man with glasses is drinking from a glass.
+metal_nut_ground_truth_bent_022_mask.png,A man with glasses and a black shirt is looking at something.
+metal_nut_ground_truth_bent_023_mask.png,A man with glasses and a black shirt is standing in a crowd.
+metal_nut_ground_truth_bent_024_mask.png,A group of people are playing a game.
+metal_nut_ground_truth_color_000_mask.png,A man in a red shirt is walking with a white glove on.
+metal_nut_ground_truth_color_001_mask.png,A man with glasses and a black shirt is walking.
+metal_nut_ground_truth_color_002_mask.png,A man in a black suit is looking at something in the distance.
+metal_nut_ground_truth_color_003_mask.png,A group of people are playing with a ball.
+metal_nut_ground_truth_color_004_mask.png,A black-haired man in a red shirt is looking at the camera.
+metal_nut_ground_truth_color_005_mask.png,A woman with a red shirt and black hair is smiling.
+metal_nut_ground_truth_color_006_mask.png,A man in a black shirt is looking at something in the distance.
+metal_nut_ground_truth_color_007_mask.png,A black man with glasses is running.
+metal_nut_ground_truth_color_008_mask.png,A black man with a red nose and white shirt is swimming.
+metal_nut_ground_truth_color_009_mask.png,A group of people are looking at something.
+metal_nut_ground_truth_color_010_mask.png,A black-haired man in a red shirt is playing the piano.
+metal_nut_ground_truth_color_011_mask.png,Man with glasses and a black shirt is singing.
+metal_nut_ground_truth_color_012_mask.png,A black man with glasses is pouring a liquid into a glass.
+metal_nut_ground_truth_color_013_mask.png,A black man with glasses is wearing a red shirt and black pants.
+metal_nut_ground_truth_color_014_mask.png,A black man with a red shirt and black hat is running.
+metal_nut_ground_truth_color_015_mask.png,A man with glasses and a black shirt is standing in front of a table with a red tablecloth.
+metal_nut_ground_truth_color_016_mask.png,Man with glasses and a white shirt is looking at something.
+metal_nut_ground_truth_color_017_mask.png,A black-haired man with glasses is sitting in front of a table with a red tablecloth.
+metal_nut_ground_truth_color_018_mask.png,A black man with glasses is playing with a ball.
+metal_nut_ground_truth_color_019_mask.png,A black-haired woman with a red scarf on her head is holding a piece of paper in her hand.
+metal_nut_ground_truth_color_020_mask.png,A man with glasses is pouring a liquid into a glass.
+metal_nut_ground_truth_color_021_mask.png,A man with a black hat is holding a red flag.
+metal_nut_ground_truth_flip_000_mask.png,A person in a blue shirt is looking at a computer screen.
+metal_nut_ground_truth_flip_001_mask.png,A computer with a red lock on it.
+metal_nut_ground_truth_flip_002_mask.png,A group of people are standing in a room with a computer.
+metal_nut_ground_truth_flip_003_mask.png,"A computer is in a room with a sign on it that says ""enterprise software maintenance facility available for your computer."
+metal_nut_ground_truth_flip_004_mask.png,A computer with a red lock on it.
+metal_nut_ground_truth_flip_005_mask.png,A neural net is being drawn on a screen.
+metal_nut_ground_truth_flip_006_mask.png,A computer with a blue light on it.
+metal_nut_ground_truth_flip_007_mask.png,A group of people are standing in a room with a computer.
+metal_nut_ground_truth_flip_008_mask.png,A person in a blue shirt is looking at a computer screen.
+metal_nut_ground_truth_flip_009_mask.png,A person in a blue shirt is standing in front of a computer.
+metal_nut_ground_truth_flip_010_mask.png,A person in a blue shirt is looking at a computer screen.
+metal_nut_ground_truth_flip_011_mask.png,A group of people are standing in a room with a microscope.
+metal_nut_ground_truth_flip_012_mask.png,A computer is in a room with a lot of people.
+metal_nut_ground_truth_flip_013_mask.png,A computer is in a room with a lot of monitors.
+metal_nut_ground_truth_flip_014_mask.png,A neural net is being drawn on a screen.
+metal_nut_ground_truth_flip_015_mask.png,A computer is in a room with a large display screen.
+metal_nut_ground_truth_flip_016_mask.png,A group of people are standing in a room with a computer.
+metal_nut_ground_truth_flip_017_mask.png,A group of people are sitting in a room with a computer.
+metal_nut_ground_truth_flip_018_mask.png,A computer with a blue light on it.
+metal_nut_ground_truth_flip_019_mask.png,A group of people are standing in a room with a computer.
+metal_nut_ground_truth_flip_020_mask.png,A man in a white shirt is looking at a computer screen.
+metal_nut_ground_truth_flip_021_mask.png,A large sign on a wall.
+metal_nut_ground_truth_flip_022_mask.png,A microscope is looking at a sample.
+metal_nut_ground_truth_scratch_000_mask.png,A black man with a red nose and a white shirt is standing in the middle of a crowd.
+metal_nut_ground_truth_scratch_001_mask.png,A tattooed man with a white shirt and black hat is standing in a crowd.
+metal_nut_ground_truth_scratch_002_mask.png,A black man with glasses and a white shirt is standing in front of a crowd.
+metal_nut_ground_truth_scratch_003_mask.png,A black man with glasses is holding a red ball.
+metal_nut_ground_truth_scratch_004_mask.png,A man with glasses is looking at something.
+metal_nut_ground_truth_scratch_005_mask.png,A man with glasses and a black hat is standing in front of a mirror.
+metal_nut_ground_truth_scratch_006_mask.png,A man with glasses is playing with a red ball.
+metal_nut_ground_truth_scratch_007_mask.png,Group of people with glasses and hats on.
+metal_nut_ground_truth_scratch_008_mask.png,A man with glasses is wearing a black shirt and a black hat.
+metal_nut_ground_truth_scratch_009_mask.png,Man with glasses and a black shirt is speaking into a microphone.
+metal_nut_ground_truth_scratch_010_mask.png,Man in a white shirt with glasses is speaking into a microphone.
+metal_nut_ground_truth_scratch_011_mask.png,Man with glasses and a white beard is wearing a black hat and a red shirt.
+metal_nut_ground_truth_scratch_012_mask.png,A woman with glasses is speaking into a microphone.
+metal_nut_ground_truth_scratch_013_mask.png,Man in black suit with glasses is walking.
+metal_nut_ground_truth_scratch_014_mask.png,Man with a black hat and white shirt is walking.
+metal_nut_ground_truth_scratch_015_mask.png,A man in a black shirt is looking at something.
+metal_nut_ground_truth_scratch_016_mask.png,Man with glasses and a black hat is smiling.
+metal_nut_ground_truth_scratch_017_mask.png,Man with glasses and a black hat is smiling.
+metal_nut_ground_truth_scratch_018_mask.png,Man with glasses and a black hat is holding a black and white piece of paper.
+metal_nut_ground_truth_scratch_019_mask.png,A woman with a black hat is holding a drink.
+metal_nut_ground_truth_scratch_020_mask.png,A black man with glasses is playing with a ball.
+metal_nut_ground_truth_scratch_021_mask.png,Man in a black suit is walking.
+metal_nut_ground_truth_scratch_022_mask.png,A brunette with glasses is wearing a black shirt and black pants.
+pill_ground_truth_color_000_mask.png,A black-haired woman with a white shirt and glasses is holding a piece of paper in her hand.
+pill_ground_truth_color_001_mask.png,Students are taking a picture of something.
+pill_ground_truth_color_002_mask.png,A young man with glasses is looking at something in a pool.
+pill_ground_truth_color_003_mask.png,Mr. Potato Head is looking at the camera.
+pill_ground_truth_color_004_mask.png,A man in a black shirt is running through a crowd.
+pill_ground_truth_color_005_mask.png,A man with a red shirt is running.
+pill_ground_truth_color_006_mask.png,A man with a black shirt and glasses is looking at the camera.
+pill_ground_truth_color_007_mask.png,A man with a black shirt and white shorts is pouring a liquid into a glass.
+pill_ground_truth_color_008_mask.png,A man in a red shirt is throwing a ball.
+pill_ground_truth_color_009_mask.png,A man in a black shirt is running with a ball.
+pill_ground_truth_color_010_mask.png,A black man with a red shirt is running.
+pill_ground_truth_color_011_mask.png,Man in a black shirt is throwing a dart.
+pill_ground_truth_color_012_mask.png,A man in a white shirt is wearing a red shirt and is holding a microphone.
+pill_ground_truth_color_013_mask.png,Man in black shirt with red tie is running.
+pill_ground_truth_color_014_mask.png,A black man with a white shirt and black pants is playing a game.
+pill_ground_truth_color_015_mask.png,A woman with a red shirt is playing with a ball.
+pill_ground_truth_color_016_mask.png,A woman in a black shirt is playing with a ball.
+pill_ground_truth_color_017_mask.png,Muslim men are wearing black and white striped shirts.
+pill_ground_truth_color_018_mask.png,A group of people are playing a game.
+pill_ground_truth_color_019_mask.png,A woman in a black shirt is looking at something in the distance.
+pill_ground_truth_color_020_mask.png,Two people are standing in a line.
+pill_ground_truth_color_021_mask.png,A man with a white shirt and black pants is wearing a red shirt and black pants.
+pill_ground_truth_color_022_mask.png,A group of people are playing a game.
+pill_ground_truth_color_023_mask.png,Two people are looking at something.
+pill_ground_truth_color_024_mask.png,A man in a black shirt is walking through a crowd.
+pill_ground_truth_combined_000_mask.png,A man with glasses and a black shirt is looking at something.
+pill_ground_truth_combined_001_mask.png,Man in black suit with glasses and a black hat is standing in front of a table with a piano and a piano.
+pill_ground_truth_combined_002_mask.png,A group of people are playing a game.
+pill_ground_truth_combined_003_mask.png,A group of people are looking at something.
+pill_ground_truth_combined_004_mask.png,A black-haired man with glasses is looking at a piece of paper.
+pill_ground_truth_combined_005_mask.png,A black man with glasses is holding a drink in his hand.
+pill_ground_truth_combined_006_mask.png,A man with glasses is holding a drink.
+pill_ground_truth_combined_007_mask.png,Students in a race are wearing glasses.
+pill_ground_truth_combined_008_mask.png,A man in a black shirt is looking at something.
+pill_ground_truth_combined_009_mask.png,Group of dogs are looking at something.
+pill_ground_truth_combined_010_mask.png,A man in a black shirt is looking at a piece of paper.
+pill_ground_truth_combined_011_mask.png,A woman with a red scarf on her head is holding a drink.
+pill_ground_truth_combined_012_mask.png,A man in a black shirt is looking at a liquid crystal ball.
+pill_ground_truth_combined_013_mask.png,Black-haired woman with a black hat and glasses is holding a drink.
+pill_ground_truth_combined_014_mask.png,A black man with a white shirt and black pants is standing in front of a table with a white wall.
+pill_ground_truth_combined_015_mask.png,A man with glasses is sitting in a chair.
+pill_ground_truth_combined_016_mask.png,A black-haired man with glasses is looking at something in a glass case.
+pill_ground_truth_contamination_000_mask.png,A man with glasses is looking at something in the distance.
+pill_ground_truth_contamination_001_mask.png,Actor in black with red gloves on is holding a piece of paper.
+pill_ground_truth_contamination_002_mask.png,A man with a white beard and glasses is looking at something.
+pill_ground_truth_contamination_003_mask.png,A man with a red shirt is throwing a ball.
+pill_ground_truth_contamination_004_mask.png,A black-haired man with glasses is playing with a red ball.
+pill_ground_truth_contamination_005_mask.png,A black man with a red scarf on his head is standing in a crowd.
+pill_ground_truth_contamination_006_mask.png,A black man with a red nose and a white shirt is standing in a crowd.
+pill_ground_truth_contamination_007_mask.png,A man in a red shirt is looking at the camera.
+pill_ground_truth_contamination_008_mask.png,Man in a black shirt with a red tie is walking.
+pill_ground_truth_contamination_009_mask.png,A black-haired man with glasses is looking at something in the distance.
+pill_ground_truth_contamination_010_mask.png,Man with glasses and a black shirt is smiling.
+pill_ground_truth_contamination_011_mask.png,Man in a black shirt with a red tie is looking at something.
+pill_ground_truth_contamination_012_mask.png,A black-haired woman with a red scarf on her head is standing in the middle of a crowd.
+pill_ground_truth_contamination_013_mask.png,A woman with a red wig and a white shirt is holding a ball.
+pill_ground_truth_contamination_014_mask.png,A man with glasses is looking at something.
+pill_ground_truth_contamination_015_mask.png,Man with glasses and a white shirt is playing with a ball.
+pill_ground_truth_contamination_016_mask.png,A man with a red beard is looking at the camera.
+pill_ground_truth_contamination_017_mask.png,A white-haired woman with a black hat and a white shirt is standing in the middle of a crowd.
+pill_ground_truth_contamination_018_mask.png,A man with a white beard and glasses is wearing a black shirt and a black hat.
+pill_ground_truth_contamination_019_mask.png,A man in a white shirt is looking at something.
+pill_ground_truth_contamination_020_mask.png,A black-haired woman with a red scarf on her head is standing in front of a table with a tablecloth on it.
+pill_ground_truth_crack_000_mask.png,A man with a black hat and glasses is holding a drink in his hand.
+pill_ground_truth_crack_001_mask.png,Man in a black jacket with a red scarf on his head.
+pill_ground_truth_crack_002_mask.png,A man with glasses and a black shirt is walking.
+pill_ground_truth_crack_003_mask.png,A man with glasses is wearing a black shirt and a black hat.
+pill_ground_truth_crack_004_mask.png,A man with a black hat and glasses is holding a red cup.
+pill_ground_truth_crack_005_mask.png,A man with glasses is looking at something.
+pill_ground_truth_crack_006_mask.png,A man with a black hat and glasses is holding a drink in his hand.
+pill_ground_truth_crack_007_mask.png,Man in a black shirt with a red tie is holding a cup.
+pill_ground_truth_crack_008_mask.png,A black-haired man in a suit is holding a piece of paper in his hand.
+pill_ground_truth_crack_009_mask.png,A black-haired man with a white shirt and black hat is standing in front of a table with a white tablecloth.
+pill_ground_truth_crack_010_mask.png,A man with glasses and a black shirt is standing in a crowd.
+pill_ground_truth_crack_011_mask.png,A brunette with glasses is wearing a black shirt and a black hat.
+pill_ground_truth_crack_012_mask.png,A woman with a red scarf on her head is standing in a crowd.
+pill_ground_truth_crack_013_mask.png,A man in a red shirt is holding a cup.
+pill_ground_truth_crack_014_mask.png,A man in a black jacket is looking at something.
+pill_ground_truth_crack_015_mask.png,A black man with glasses is standing in a crowd.
+pill_ground_truth_crack_016_mask.png,A man in a black shirt is looking at a piece of paper.
+pill_ground_truth_crack_017_mask.png,A black-haired woman with glasses is holding a red cup.
+pill_ground_truth_crack_018_mask.png,A man in a black hat is holding a trumpet.
+pill_ground_truth_crack_019_mask.png,Man with glasses and a black hat is wearing a black shirt and a red tie.
+pill_ground_truth_crack_020_mask.png,Man in a red shirt with a white hat is looking at the camera.
+pill_ground_truth_crack_021_mask.png,A woman with a red scarf on her head is holding a red cup.
+pill_ground_truth_crack_022_mask.png,Man in a white shirt with a black hat is holding a piece of paper.
+pill_ground_truth_crack_023_mask.png,A man with a black hat and glasses is holding a drink in his hand.
+pill_ground_truth_crack_024_mask.png,Man with glasses and a black hat is standing in a crowd.
+pill_ground_truth_crack_025_mask.png,Man in a white shirt with a black hat is holding a cup.
+pill_ground_truth_faulty_imprint_000_mask.png,A woman in a red shirt is looking at something.
+pill_ground_truth_faulty_imprint_001_mask.png,A man in a red shirt is throwing a ball.
+pill_ground_truth_faulty_imprint_002_mask.png,Scientists are looking at something in the distance.
+pill_ground_truth_faulty_imprint_003_mask.png,A black and white bird with a white beak is standing in front of a white wall.
+pill_ground_truth_faulty_imprint_004_mask.png,A man with a red shirt and glasses is looking at something.
+pill_ground_truth_faulty_imprint_005_mask.png,A black man with glasses is playing with a ball.
+pill_ground_truth_faulty_imprint_006_mask.png,Man in a suit with a black hat and glasses is looking at something.
+pill_ground_truth_faulty_imprint_007_mask.png,A man with glasses is standing in a room with a white wall.
+pill_ground_truth_faulty_imprint_008_mask.png,A man with glasses and a black shirt is standing in front of a mirror.
+pill_ground_truth_faulty_imprint_009_mask.png,A man with a white shirt and glasses is standing in front of a mirror.
+pill_ground_truth_faulty_imprint_010_mask.png,A black-haired woman with a white shirt and black hair is looking at something.
+pill_ground_truth_faulty_imprint_011_mask.png,A man in a black suit is playing the drums.
+pill_ground_truth_faulty_imprint_012_mask.png,A man with glasses and a black hat is standing in the middle of a crowd.
+pill_ground_truth_faulty_imprint_013_mask.png,A man with glasses is standing in a hallway.
+pill_ground_truth_faulty_imprint_014_mask.png,Two men are looking at something in the distance.
+pill_ground_truth_faulty_imprint_015_mask.png,A man in a black suit is looking at something in a microscope.
+pill_ground_truth_faulty_imprint_016_mask.png,Man in a white shirt with glasses is speaking into a microphone.
+pill_ground_truth_faulty_imprint_017_mask.png,A woman with a red nose and a black shirt is smiling.
+pill_ground_truth_faulty_imprint_018_mask.png,Man in a black shirt with a white stripe on his shirt is walking.
+pill_ground_truth_pill_type_000_mask.png,Man with glasses is looking at something.
+pill_ground_truth_pill_type_001_mask.png,Man with glasses is looking at a computer screen.
+pill_ground_truth_pill_type_002_mask.png,Man with glasses is looking at a piece of paper.
+pill_ground_truth_pill_type_003_mask.png,Man in a blue shirt is looking at a piece of paper.
+pill_ground_truth_pill_type_004_mask.png,Man with glasses is looking at something.
+pill_ground_truth_pill_type_005_mask.png,Man with glasses is looking at something.
+pill_ground_truth_pill_type_006_mask.png,Man with glasses is looking at a piece of paper.
+pill_ground_truth_pill_type_007_mask.png,Man with glasses is looking at a computer screen.
+pill_ground_truth_pill_type_008_mask.png,Man in a white shirt is looking at a map.
+pill_ground_truth_scratch_000_mask.png,A man in a red shirt is looking at something.
+pill_ground_truth_scratch_001_mask.png,A man in a red shirt is looking at something.
+pill_ground_truth_scratch_002_mask.png,A man with glasses and a black shirt is standing in front of a crowd.
+pill_ground_truth_scratch_003_mask.png,A black man with a white shirt and glasses is standing in a crowd.
+pill_ground_truth_scratch_004_mask.png,A black-haired woman with a red scarf on her head is holding a drink in her hand.
+pill_ground_truth_scratch_005_mask.png,A man with a black shirt and red tie is holding a piece of paper in his hand.
+pill_ground_truth_scratch_006_mask.png,A black man with a red nose and a white shirt is walking through the water.
+pill_ground_truth_scratch_007_mask.png,A man with a red shirt and black hat is looking at the camera.
+pill_ground_truth_scratch_008_mask.png,Man in a suit is holding a piece of paper.
+pill_ground_truth_scratch_009_mask.png,Man with glasses and a black hat is wearing a black shirt and glasses.
+pill_ground_truth_scratch_010_mask.png,A man in a black suit is holding a red ball.
+pill_ground_truth_scratch_011_mask.png,A man in a black hat is holding a red cup.
+pill_ground_truth_scratch_012_mask.png,A black-haired woman with a red scarf on her head is looking at something.
+pill_ground_truth_scratch_013_mask.png,A black-haired man with glasses is looking at something.
+pill_ground_truth_scratch_014_mask.png,A man with glasses and a black shirt is dancing.
+pill_ground_truth_scratch_015_mask.png,A black man with glasses is looking at the camera.
+pill_ground_truth_scratch_016_mask.png,A man in a black shirt is looking at something in the distance.
+pill_ground_truth_scratch_017_mask.png,Man with glasses and a black shirt is looking at something.
+pill_ground_truth_scratch_018_mask.png,A black man with glasses and a white shirt is wearing a black suit.
+pill_ground_truth_scratch_019_mask.png,Actor in black shirt in a white shirt playing with a ball.
+pill_ground_truth_scratch_020_mask.png,A black man with a red shirt and black hat is running.
+pill_ground_truth_scratch_021_mask.png,A man with a red shirt is running with his hands in his pockets.
+pill_ground_truth_scratch_022_mask.png,A man in a red shirt is smiling.
+pill_ground_truth_scratch_023_mask.png,A black man with glasses and a white shirt is standing in front of a table with a tablecloth.
+screw_ground_truth_manipulated_front_000_mask.png,A man with glasses is drinking from a glass.
+screw_ground_truth_manipulated_front_001_mask.png,A young man with a black shirt and glasses is swimming.
+screw_ground_truth_manipulated_front_002_mask.png,A black man with a red tie is holding a red ball.
+screw_ground_truth_manipulated_front_003_mask.png,Man with glasses and a black hat is looking at something.
+screw_ground_truth_manipulated_front_004_mask.png,A woman in a white shirt is holding a red ball.
+screw_ground_truth_manipulated_front_005_mask.png,A black-haired woman with a red shirt is looking at a white-haired woman with a black shirt.
+screw_ground_truth_manipulated_front_006_mask.png,A woman in a black shirt is playing with a ball.
+screw_ground_truth_manipulated_front_007_mask.png,A black man with glasses is pouring a liquid from a bottle into a glass.
+screw_ground_truth_manipulated_front_008_mask.png,A man in a red shirt is holding a piece of paper.
+screw_ground_truth_manipulated_front_009_mask.png,A black-haired man in a red shirt is throwing a dart.
+screw_ground_truth_manipulated_front_010_mask.png,A brunette with a red shirt is smiling.
+screw_ground_truth_manipulated_front_011_mask.png,Woman in a red shirt and white hat is holding a piece of paper.
+screw_ground_truth_manipulated_front_012_mask.png,A brunette with a red shirt is holding a red ball.
+screw_ground_truth_manipulated_front_013_mask.png,A woman in a red shirt is looking at something.
+screw_ground_truth_manipulated_front_014_mask.png,A woman in a red shirt is holding a red ball.
+screw_ground_truth_manipulated_front_015_mask.png,A black-haired man in a black shirt is holding a piece of paper in his hand.
+screw_ground_truth_manipulated_front_016_mask.png,Young woman with glasses and a black shirt is playing the violin.
+screw_ground_truth_manipulated_front_017_mask.png,A woman in a red shirt is holding a piece of paper.
+screw_ground_truth_manipulated_front_018_mask.png,A woman in a black shirt is looking at something.
+screw_ground_truth_manipulated_front_019_mask.png,Man in a red shirt is holding a cup.
+screw_ground_truth_manipulated_front_020_mask.png,A man in a black shirt is running through a crowd.
+screw_ground_truth_manipulated_front_021_mask.png,A man in a red shirt is running with a ball.
+screw_ground_truth_manipulated_front_022_mask.png,A brunette with glasses is looking at something in the distance.
+screw_ground_truth_manipulated_front_023_mask.png,A man in a red shirt is holding a cup.
+screw_ground_truth_scratch_head_000_mask.png,A man in a black shirt is throwing a ball.
+screw_ground_truth_scratch_head_001_mask.png,A man in a red shirt is looking at something in the distance.
+screw_ground_truth_scratch_head_002_mask.png,A man in a black shirt is throwing a ball.
+screw_ground_truth_scratch_head_003_mask.png,A man in a black hat is holding a piece of paper in his hand.
+screw_ground_truth_scratch_head_004_mask.png,Man in a black shirt with a white hat is walking.
+screw_ground_truth_scratch_head_005_mask.png,A group of people are standing in a circle.
+screw_ground_truth_scratch_head_006_mask.png,A man with a black shirt and red tie is running.
+screw_ground_truth_scratch_head_007_mask.png,A man in a red shirt is looking at something.
+screw_ground_truth_scratch_head_008_mask.png,A man in a black shirt is throwing a red ball.
+screw_ground_truth_scratch_head_009_mask.png,Man in a black hat and glasses is holding a piece of paper.
+screw_ground_truth_scratch_head_010_mask.png,A black man with a red shirt and black hat is walking through the street.
+screw_ground_truth_scratch_head_011_mask.png,A group of people are standing in a line.
+screw_ground_truth_scratch_head_012_mask.png,A man in a black shirt is throwing a dart.
+screw_ground_truth_scratch_head_013_mask.png,A man in a black shirt is running with a ball.
+screw_ground_truth_scratch_head_014_mask.png,A man in a black shirt is holding a red object.
+screw_ground_truth_scratch_head_015_mask.png,Man in a black hat and white shirt is holding a piece of paper.
+screw_ground_truth_scratch_head_016_mask.png,A man in a black shirt is throwing a ball.
+screw_ground_truth_scratch_head_017_mask.png,Man in a black shirt with a white hat is holding a cup.
+screw_ground_truth_scratch_head_018_mask.png,A man with glasses and a black shirt is standing in a crowd.
+screw_ground_truth_scratch_head_019_mask.png,A man with a red shirt and black hat is running.
+screw_ground_truth_scratch_head_020_mask.png,A man in a red shirt is looking at something.
+screw_ground_truth_scratch_head_021_mask.png,A man in a black shirt is pouring a liquid into a glass.
+screw_ground_truth_scratch_head_022_mask.png,A man in a black shirt is holding a red ball.
+screw_ground_truth_scratch_head_023_mask.png,A black man with a red shirt and white stripes is running.
+screw_ground_truth_scratch_neck_000_mask.png,Scientists are looking at something in the distance.
+screw_ground_truth_scratch_neck_001_mask.png,A man in a white shirt is looking at something.
+screw_ground_truth_scratch_neck_002_mask.png,A man in a black shirt is standing in a crowd.
+screw_ground_truth_scratch_neck_003_mask.png,Man in a red shirt is holding a piece of paper.
+screw_ground_truth_scratch_neck_004_mask.png,A woman in a black shirt is standing in a crowd.
+screw_ground_truth_scratch_neck_005_mask.png,A man in a black shirt is running with a machine.
+screw_ground_truth_scratch_neck_006_mask.png,Muslim men are having a conversation.
+screw_ground_truth_scratch_neck_007_mask.png,A man in a white shirt is playing with a ball.
+screw_ground_truth_scratch_neck_008_mask.png,A man with glasses and a black shirt is looking at something.
+screw_ground_truth_scratch_neck_009_mask.png,A man in a black shirt is throwing a ball.
+screw_ground_truth_scratch_neck_010_mask.png,A man in a black jacket is looking at the camera.
+screw_ground_truth_scratch_neck_011_mask.png,A man in a white shirt is holding a bowl in his hand.
+screw_ground_truth_scratch_neck_012_mask.png,A group of people are standing in a circle.
+screw_ground_truth_scratch_neck_013_mask.png,Man in a black shirt with a white hat and red tie is looking at something.
+screw_ground_truth_scratch_neck_014_mask.png,A man in a red shirt is throwing a ball.
+screw_ground_truth_scratch_neck_015_mask.png,A white-haired man with a red tie is standing in a crowd.
+screw_ground_truth_scratch_neck_016_mask.png,A black man with a red shirt is standing in a crowd.
+screw_ground_truth_scratch_neck_017_mask.png,A group of people are looking at something.
+screw_ground_truth_scratch_neck_018_mask.png,A group of people are standing in a circle.
+screw_ground_truth_scratch_neck_019_mask.png,Men in black shirts are looking at something.
+screw_ground_truth_scratch_neck_020_mask.png,Two men are looking at something in a dark room.
+screw_ground_truth_scratch_neck_021_mask.png,A man with glasses is looking at something in the distance.
+screw_ground_truth_scratch_neck_022_mask.png,A man in a white shirt is pouring a liquid into a cup.
+screw_ground_truth_scratch_neck_023_mask.png,A man in a white shirt is playing a game with a ball.
+screw_ground_truth_scratch_neck_024_mask.png,A man in a red shirt is looking at a woman in a black shirt.
+screw_ground_truth_thread_side_000_mask.png,A man in a black shirt is pouring a liquid into a cup.
+screw_ground_truth_thread_side_001_mask.png,A group of people are looking at something.
+screw_ground_truth_thread_side_002_mask.png,A woman with a white shirt and black hair is playing with a ball.
+screw_ground_truth_thread_side_003_mask.png,A man in a red shirt is holding a ball.
+screw_ground_truth_thread_side_004_mask.png,A man in a black shirt is running through a crowd.
+screw_ground_truth_thread_side_005_mask.png,A woman with a black hat and glasses is holding a piece of paper.
+screw_ground_truth_thread_side_006_mask.png,A man with glasses is wearing a red shirt and black hat.
+screw_ground_truth_thread_side_007_mask.png,A man with glasses is playing with a ball.
+screw_ground_truth_thread_side_008_mask.png,A man with a black hat and glasses is walking.
+screw_ground_truth_thread_side_009_mask.png,A woman in a black shirt is looking at something in the distance.
+screw_ground_truth_thread_side_010_mask.png,Man in a white shirt with glasses is holding a piece of paper.
+screw_ground_truth_thread_side_011_mask.png,A man in a black shirt is running.
+screw_ground_truth_thread_side_012_mask.png,A black man with a white shirt and black hair is walking.
+screw_ground_truth_thread_side_013_mask.png,A black-haired man with glasses is playing with a ball.
+screw_ground_truth_thread_side_014_mask.png,Woman in a red shirt with a white hat is walking.
+screw_ground_truth_thread_side_015_mask.png,A woman in a red shirt is holding a piece of paper.
+screw_ground_truth_thread_side_016_mask.png,A man in a black shirt is swimming.
+screw_ground_truth_thread_side_017_mask.png,A young woman with a white shirt and glasses is holding a ball.
+screw_ground_truth_thread_side_018_mask.png,Woman in a white shirt is playing with a ball.
+screw_ground_truth_thread_side_019_mask.png,A woman in a black shirt is running.
+screw_ground_truth_thread_side_020_mask.png,A woman in a red shirt is playing with a ball.
+screw_ground_truth_thread_side_021_mask.png,A woman with a red shirt and black hair is running.
+screw_ground_truth_thread_side_022_mask.png,A black man with glasses and a white shirt is standing in a crowd.
+screw_ground_truth_thread_top_000_mask.png,A man in a black shirt is holding a red ball.
+screw_ground_truth_thread_top_001_mask.png,A man in a black hat and glasses is looking at something.
+screw_ground_truth_thread_top_002_mask.png,A black man with a white shirt and glasses is standing in a crowd.
+screw_ground_truth_thread_top_003_mask.png,A black-haired woman with a red shirt and black hat is standing in a crowd.
+screw_ground_truth_thread_top_004_mask.png,Man with glasses and a white beard is walking.
+screw_ground_truth_thread_top_005_mask.png,Person with glasses and a white shirt standing in a crowd.
+screw_ground_truth_thread_top_006_mask.png,A brunette woman with a white shirt and black hair is looking at something in the distance.
+screw_ground_truth_thread_top_007_mask.png,A man in a black hat and glasses is looking at the camera.
+screw_ground_truth_thread_top_008_mask.png,A woman in a white shirt is holding a ball.
+screw_ground_truth_thread_top_009_mask.png,A brunette woman in a black shirt is running.
+screw_ground_truth_thread_top_010_mask.png,A man in a black shirt is standing in a crowd.
+screw_ground_truth_thread_top_011_mask.png,A man in a black shirt is walking.
+screw_ground_truth_thread_top_012_mask.png,A man in a red shirt is holding a ball.
+screw_ground_truth_thread_top_013_mask.png,A woman in a red coat is holding a white ball.
+screw_ground_truth_thread_top_014_mask.png,A woman with a white lab coat is holding a piece of paper in her hand.
+screw_ground_truth_thread_top_015_mask.png,A person with a black hat is looking through a microscope.
+screw_ground_truth_thread_top_016_mask.png,Woman in a red shirt is running.
+screw_ground_truth_thread_top_017_mask.png,A man in a red shirt is looking at something in the distance.
+screw_ground_truth_thread_top_018_mask.png,A woman in a red coat is holding a cup.
+screw_ground_truth_thread_top_019_mask.png,Man in a black shirt with a white stripe on it is playing the piano.
+screw_ground_truth_thread_top_020_mask.png,A man with glasses is smiling.
+screw_ground_truth_thread_top_021_mask.png,A black-haired woman with a red scarf on her head is holding a piece of paper.
+screw_ground_truth_thread_top_022_mask.png,A black-haired woman with a red shirt and black hair is standing in front of a pool of water.
+tile_ground_truth_crack_000_mask.png,A woman in a black hat is standing in front of a table with a large sign.
+tile_ground_truth_crack_001_mask.png,A person with a red shirt is holding a piece of paper.
+tile_ground_truth_crack_002_mask.png,A person with a red shirt is looking at something.
+tile_ground_truth_crack_003_mask.png,A woman in a black shirt is looking at a screen.
+tile_ground_truth_crack_004_mask.png,A cat with a red nose and a black and white striped shirt is standing on a sign.
+tile_ground_truth_crack_005_mask.png,A man with a black shirt and glasses is standing in front of a crowd.
+tile_ground_truth_crack_006_mask.png,A black-haired person with a white shirt is standing in front of a large window.
+tile_ground_truth_crack_007_mask.png,"A woman in a white shirt is standing in front of a table with a sign that says ""sales & solicitations only."
+tile_ground_truth_crack_008_mask.png,A woman with a black hat is holding a drink.
+tile_ground_truth_crack_009_mask.png,Person with glasses and a white shirt is standing in front of a large machine.
+tile_ground_truth_crack_010_mask.png,A black-haired man with glasses is holding a piece of paper with a white circle on it.
+tile_ground_truth_crack_011_mask.png,A man with a black hat is standing in front of a sign.
+tile_ground_truth_crack_012_mask.png,"A woman in a black shirt is standing in front of a sign that says "" We are all in this together ""."
+tile_ground_truth_crack_013_mask.png,A person with a black hat and a red shirt is standing in front of a large sign.
+tile_ground_truth_crack_014_mask.png,A man with a white shirt and black hat is standing in front of a sign.
+tile_ground_truth_crack_015_mask.png,A black and white dog is standing in front of a white wall.
+tile_ground_truth_crack_016_mask.png,A person with a red shirt is looking through a microscope.
+tile_ground_truth_glue_strip_000_mask.png,A brunette with glasses is playing with a red ball.
+tile_ground_truth_glue_strip_001_mask.png,A surgeon is wearing a white mask.
+tile_ground_truth_glue_strip_002_mask.png,A man with glasses is standing in front of a table with a red tablecloth.
+tile_ground_truth_glue_strip_003_mask.png,Football player in a blue shirt is sitting in front of a sign.
+tile_ground_truth_glue_strip_004_mask.png,A group of people in a crowd.
+tile_ground_truth_glue_strip_005_mask.png,A black man with glasses is playing the piano.
+tile_ground_truth_glue_strip_006_mask.png,A man in a white uniform is standing in front of a large sign.
+tile_ground_truth_glue_strip_007_mask.png,Mr. Potato Head is holding a piece of paper with a red ribbon.
+tile_ground_truth_glue_strip_008_mask.png,Baseball player in a red shirt is standing in front of a sign.
+tile_ground_truth_glue_strip_009_mask.png,Man with glasses and a black hat is playing the piano.
+tile_ground_truth_glue_strip_010_mask.png,A man with glasses is playing the piano.
+tile_ground_truth_glue_strip_011_mask.png,"A man in a black hat and a white shirt is standing in front of a table with a sign that says ""Employees of the American Red Cross are here to help you."
+tile_ground_truth_glue_strip_012_mask.png,Group of people are sitting around a table.
+tile_ground_truth_glue_strip_013_mask.png,A man with glasses is smiling.
+tile_ground_truth_glue_strip_014_mask.png,A man in a suit is standing in front of a crowd.
+tile_ground_truth_glue_strip_015_mask.png,A group of people are looking at something.
+tile_ground_truth_glue_strip_016_mask.png,A man with a black hat and glasses is holding a red ball.
+tile_ground_truth_glue_strip_017_mask.png,A group of people are sitting in a circle.
+tile_ground_truth_gray_stroke_000_mask.png,A black man with glasses is looking at the camera.
+tile_ground_truth_gray_stroke_001_mask.png,A black man with glasses is smiling.
+tile_ground_truth_gray_stroke_002_mask.png,A black-haired man with glasses is playing the piano.
+tile_ground_truth_gray_stroke_003_mask.png,"Singer and guitarist, with a black shirt, is singing into a microphone."
+tile_ground_truth_gray_stroke_004_mask.png,A group of people are looking at something.
+tile_ground_truth_gray_stroke_005_mask.png,A black man with glasses is playing the piano.
+tile_ground_truth_gray_stroke_006_mask.png,A black man with glasses is pouring a liquid into a glass.
+tile_ground_truth_gray_stroke_007_mask.png,Men in black suits are walking through a crowd.
+tile_ground_truth_gray_stroke_008_mask.png,A black-haired man with a red tie is holding a piece of paper in his hand.
+tile_ground_truth_gray_stroke_009_mask.png,Men in black shirts are standing in a room.
+tile_ground_truth_gray_stroke_010_mask.png,Actor in black shirt with red tie is holding a piece of paper.
+tile_ground_truth_gray_stroke_011_mask.png,A man with a black hat and a white shirt is holding a trumpet.
+tile_ground_truth_gray_stroke_012_mask.png,A black man with a red shirt and white shorts is standing in the middle of a crowd.
+tile_ground_truth_gray_stroke_013_mask.png,A man with glasses is looking at something.
+tile_ground_truth_gray_stroke_014_mask.png,A group of people are looking at something.
+tile_ground_truth_gray_stroke_015_mask.png,A black-haired man with a red shirt and black hat is holding a drink in his hand.
+tile_ground_truth_oil_000_mask.png,Man with glasses is wearing a white hat and a black shirt.
+tile_ground_truth_oil_001_mask.png,A group of people are standing in a line.
+tile_ground_truth_oil_002_mask.png,A group of people are standing in a line.
+tile_ground_truth_oil_003_mask.png,A group of people are standing in a field.
+tile_ground_truth_oil_004_mask.png,Two men are playing a game with a ball.
+tile_ground_truth_oil_005_mask.png,People are standing in a field with a white cloud behind them.
+tile_ground_truth_oil_006_mask.png,Man with glasses and a black hat is smiling.
+tile_ground_truth_oil_007_mask.png,A group of people are standing in a field.
+tile_ground_truth_oil_008_mask.png,Two men with glasses are standing in a crowd.
+tile_ground_truth_oil_009_mask.png,Man with glasses and a white shirt is playing a game.
+tile_ground_truth_oil_010_mask.png,A man in a blue shirt is looking at something in a field.
+tile_ground_truth_oil_011_mask.png,A man with glasses is looking at something in the distance.
+tile_ground_truth_oil_012_mask.png,People are looking at something in the distance.
+tile_ground_truth_oil_013_mask.png,People are looking at something in the distance.
+tile_ground_truth_oil_014_mask.png,A man in a white shirt is looking at something.
+tile_ground_truth_oil_015_mask.png,Man with a beard and glasses is wearing a hat and a suit.
+tile_ground_truth_oil_016_mask.png,Man with a black hat and a white shirt is standing in front of a table with a white tablecloth.
+tile_ground_truth_oil_017_mask.png,A man in a white hat is standing in front of a table with a large tablecloth.
+tile_ground_truth_rough_000_mask.png,A black man with glasses and a white shirt is standing in front of a mirror.
+tile_ground_truth_rough_001_mask.png,A man in a suit is walking down the street.
+tile_ground_truth_rough_002_mask.png,A man in a white shirt is standing in front of a crowd.
+tile_ground_truth_rough_003_mask.png,A black car is driving past.
+tile_ground_truth_rough_004_mask.png,A man in a red shirt is standing in the middle of a crowd.
+tile_ground_truth_rough_005_mask.png,A man with a red shirt and glasses is holding a drink in his hand.
+tile_ground_truth_rough_006_mask.png,Man with glasses and a black shirt is standing in front of a table with a white wall.
+tile_ground_truth_rough_007_mask.png,Actor in black suit with red tie and black hat is standing in front of a crowd.
+tile_ground_truth_rough_008_mask.png,Man in a suit with a white shirt and glasses is standing in front of a table with a man in a black shirt and glasses.
+tile_ground_truth_rough_009_mask.png,A man in a red shirt is walking.
+tile_ground_truth_rough_010_mask.png,A man in a black shirt is holding a red cup.
+tile_ground_truth_rough_011_mask.png,A man with a black hat and glasses is standing in front of a mirror.
+tile_ground_truth_rough_012_mask.png,A man in a black suit is holding a cup.
+tile_ground_truth_rough_013_mask.png,Men are sitting in a room with graffiti.
+tile_ground_truth_rough_014_mask.png,A black man with a red shirt and white shorts is standing in front of a crowd.
+toothbrush_ground_truth_defective_000_mask.png,A man with glasses is looking at a piece of paper.
+toothbrush_ground_truth_defective_001_mask.png,A woman with a red shirt and black hair is holding a ball.
+toothbrush_ground_truth_defective_002_mask.png,A man with a red shirt is throwing a dart.
+toothbrush_ground_truth_defective_003_mask.png,A man in a black shirt is playing a game.
+toothbrush_ground_truth_defective_004_mask.png,A man in a white shirt is running through a crowd.
+toothbrush_ground_truth_defective_005_mask.png,Man with glasses is holding a piece of paper.
+toothbrush_ground_truth_defective_006_mask.png,A man in a black shirt is holding a large white sheet of paper.
+toothbrush_ground_truth_defective_007_mask.png,A man with a red shirt is throwing a ball.
+toothbrush_ground_truth_defective_008_mask.png,Man with a red beard with a white shirt and black hat is holding a piece of paper with a white circle on it.
+toothbrush_ground_truth_defective_009_mask.png,A man with a black hat and a white shirt is standing in the middle of a crowd.
+toothbrush_ground_truth_defective_010_mask.png,Man with a white beard wearing a white shirt and black hat is holding a red and white flag.
+toothbrush_ground_truth_defective_011_mask.png,Two people with black hair are looking at something.
+toothbrush_ground_truth_defective_012_mask.png,A black-haired man with glasses is playing with a piece of paper.
+toothbrush_ground_truth_defective_013_mask.png,A man with glasses is playing with a ball.
+toothbrush_ground_truth_defective_014_mask.png,A man with a black hat is holding a red cup.
+toothbrush_ground_truth_defective_015_mask.png,A man in a red shirt is running with a machine.
+toothbrush_ground_truth_defective_016_mask.png,Two women are playing a game of cards.
+toothbrush_ground_truth_defective_017_mask.png,A black-haired man with glasses is looking at a piece of paper.
+toothbrush_ground_truth_defective_018_mask.png,A woman in a red shirt is playing a game.
+toothbrush_ground_truth_defective_019_mask.png,Two men are looking at a table with a tablecloth.
+toothbrush_ground_truth_defective_020_mask.png,A black man with glasses is smiling.
+toothbrush_ground_truth_defective_021_mask.png,A man in a black shirt is looking at something.
+toothbrush_ground_truth_defective_022_mask.png,A black hat with a red collar is standing in front of a table with a white tablecloth.
+toothbrush_ground_truth_defective_023_mask.png,A man in a suit is wearing a white mask.
+toothbrush_ground_truth_defective_024_mask.png,Young man in a black shirt with a white stripe on his shirt is running.
+toothbrush_ground_truth_defective_025_mask.png,A black-haired man with glasses is holding a piece of paper in his right hand.
+toothbrush_ground_truth_defective_026_mask.png,A black-haired woman in a white shirt is looking at something.
+toothbrush_ground_truth_defective_027_mask.png,A black-haired man in a red shirt is playing a game with a white ball.
+toothbrush_ground_truth_defective_028_mask.png,Student in a black shirt is playing a game.
+toothbrush_ground_truth_defective_029_mask.png,Actor in black shirt with white shirt and black pants is holding a piece of paper with a white circle on it.
+transistor_ground_truth_bent_lead_000_mask.png,A girl with a red shirt and black hair is running.
+transistor_ground_truth_bent_lead_001_mask.png,A young woman with a red shirt and glasses is wearing a white mask.
+transistor_ground_truth_bent_lead_002_mask.png,A man in a red shirt is holding a ball.
+transistor_ground_truth_bent_lead_003_mask.png,A man with a red nose and glasses is wearing a black shirt and black hat.
+transistor_ground_truth_bent_lead_004_mask.png,A young man with a red shirt and glasses is wearing a white hat.
+transistor_ground_truth_bent_lead_005_mask.png,Man with glasses and a black shirt is smiling.
+transistor_ground_truth_bent_lead_006_mask.png,Man with glasses and a black hat is speaking into a microphone.
+transistor_ground_truth_bent_lead_007_mask.png,Man with glasses and a black shirt is standing in a crowd.
+transistor_ground_truth_bent_lead_008_mask.png,Man in a black shirt with a white stripe on it is holding a piece of paper.
+transistor_ground_truth_bent_lead_009_mask.png,Man with a black hat and glasses is holding a cigarette.
+transistor_ground_truth_cut_lead_000_mask.png,A man in a black hat and red shirt is smiling.
+transistor_ground_truth_cut_lead_001_mask.png,Actor in a black shirt with red tie is holding a drink.
+transistor_ground_truth_cut_lead_002_mask.png,Man with glasses and a red shirt is holding a cup.
+transistor_ground_truth_cut_lead_003_mask.png,Man with glasses and a black hat is holding a cup.
+transistor_ground_truth_cut_lead_004_mask.png,Man with glasses and a black shirt is playing with his hands.
+transistor_ground_truth_cut_lead_005_mask.png,A woman with a red shirt and black hair is holding a drink in her hand.
+transistor_ground_truth_cut_lead_006_mask.png,Man with glasses and a black shirt is looking at something.
+transistor_ground_truth_cut_lead_007_mask.png,A man in a black shirt with a red nose and glasses is looking at something.
+transistor_ground_truth_cut_lead_008_mask.png,A man with glasses is looking at a piece of paper.
+transistor_ground_truth_cut_lead_009_mask.png,Man with glasses and a black hat is smiling.
+transistor_ground_truth_damaged_case_000_mask.png,A man with a red hat is holding a piece of paper in his hand.
+transistor_ground_truth_damaged_case_001_mask.png,Aureole with a red ring on it.
+transistor_ground_truth_damaged_case_002_mask.png,A black-haired man with glasses is looking at something in the distance.
+transistor_ground_truth_damaged_case_003_mask.png,A man with glasses is looking at something.
+transistor_ground_truth_damaged_case_004_mask.png,A black and white dog swims in a pool.
+transistor_ground_truth_damaged_case_005_mask.png,Man with glasses is looking at something.
+transistor_ground_truth_damaged_case_006_mask.png,Man in a suit with a white shirt and black hat is holding a piece of paper.
+transistor_ground_truth_damaged_case_007_mask.png,A black-haired man with a red tie is looking at something.
+transistor_ground_truth_damaged_case_008_mask.png,Man in a white shirt with a red tie is standing in front of a large sign.
+transistor_ground_truth_damaged_case_009_mask.png,Man in a white shirt with glasses is playing the piano.
+transistor_ground_truth_misplaced_000_mask.png,Man with glasses and a black hat is sitting in front of a table with a white tablecloth.
+transistor_ground_truth_misplaced_001_mask.png,Man in a black shirt is sitting at a table with a glass of wine.
+transistor_ground_truth_misplaced_002_mask.png,Man with glasses and a black hat is working at night.
+transistor_ground_truth_misplaced_003_mask.png,Man with a black hat and a white shirt is preparing food.
+transistor_ground_truth_misplaced_004_mask.png,Man with a mustache and glasses wearing a hat and sunglasses is sitting in a car.
+transistor_ground_truth_misplaced_005_mask.png,Men in black jackets are sitting in a parking lot.
+transistor_ground_truth_misplaced_006_mask.png,Man in a black hat and glasses is holding a tray of food.
+transistor_ground_truth_misplaced_007_mask.png,Man in a black shirt is standing in front of a counter.
+transistor_ground_truth_misplaced_008_mask.png,Men are sitting at a table with a sign on it.
+transistor_ground_truth_misplaced_009_mask.png,Man with glasses and a black hat is eating.
+wood_ground_truth_color_000_mask.png,Man in a black shirt with a white hat and glasses is looking at something.
+wood_ground_truth_color_001_mask.png,Man with glasses and a black shirt is wearing a black shirt and glasses.
+wood_ground_truth_color_002_mask.png,Men in a white shirt are working.
+wood_ground_truth_color_003_mask.png,Students in a classroom.
+wood_ground_truth_color_004_mask.png,A man with glasses is playing with a trumpet.
+wood_ground_truth_color_005_mask.png,Actor in black shirt with red tie is holding a piece of paper.
+wood_ground_truth_color_006_mask.png,A man with a black hat and glasses is looking at something.
+wood_ground_truth_color_007_mask.png,A man in a black shirt is playing the trumpet.
+wood_ground_truth_combined_000_mask.png,Actor in black shirt with red tie is standing in front of a table with a white wall.
+wood_ground_truth_combined_001_mask.png,Man in a black shirt with a red tie is holding a piece of paper.
+wood_ground_truth_combined_002_mask.png,A group of people are looking at a drink.
+wood_ground_truth_combined_003_mask.png,Man with glasses and a black shirt is drinking.
+wood_ground_truth_combined_004_mask.png,Man in a black shirt is working on a project.
+wood_ground_truth_combined_005_mask.png,A group of people are looking at something.
+wood_ground_truth_combined_006_mask.png,A man in a black shirt is looking at something.
+wood_ground_truth_combined_007_mask.png,Men and women are standing in line.
+wood_ground_truth_combined_008_mask.png,A black man with glasses is holding a red ball.
+wood_ground_truth_combined_009_mask.png,A man in a white shirt is looking at a piece of paper.
+wood_ground_truth_combined_010_mask.png,Man with glasses and a black hat is smiling.
+wood_ground_truth_hole_000_mask.png,A man in a black shirt is looking at a piece of paper.
+wood_ground_truth_hole_001_mask.png,A man in a black shirt is playing with a red ball.
+wood_ground_truth_hole_002_mask.png,Actor in a red shirt is smiling.
+wood_ground_truth_hole_003_mask.png,A man in a black shirt is looking at a piece of paper.
+wood_ground_truth_hole_004_mask.png,A man with a white shirt and black hat is standing in front of a sign.
+wood_ground_truth_hole_005_mask.png,A black-haired man with a white shirt and black hat is standing in front of a sign.
+wood_ground_truth_hole_006_mask.png,A group of people are playing a game.
+wood_ground_truth_hole_007_mask.png,A man in a black shirt is looking at a piece of paper.
+wood_ground_truth_hole_008_mask.png,Friends are having a drink.
+wood_ground_truth_hole_009_mask.png,A man in a black shirt is looking at a red ball.
+wood_ground_truth_liquid_000_mask.png,A group of people are walking through the street.
+wood_ground_truth_liquid_001_mask.png,A group of men with black hair and glasses are standing in a room.
+wood_ground_truth_liquid_002_mask.png,Man with glasses and a black hat is standing in front of a table with a white wall.
+wood_ground_truth_liquid_003_mask.png,A man in a red shirt is looking at something.
+wood_ground_truth_liquid_004_mask.png,A man in a black shirt is looking at a piece of paper.
+wood_ground_truth_liquid_005_mask.png,A black man with a white shirt and black pants is looking at something in the distance.
+wood_ground_truth_liquid_006_mask.png,A man with glasses is looking at something.
+wood_ground_truth_liquid_007_mask.png,A group of people are wearing black and white hats.
+wood_ground_truth_liquid_008_mask.png,A man in a black suit is walking through a crowd.
+wood_ground_truth_liquid_009_mask.png,A man in a black hat and a white shirt is playing the piano.
+wood_ground_truth_scratch_000_mask.png,A man in a black shirt is standing in front of a table with a sign on it.
+wood_ground_truth_scratch_001_mask.png,A black-haired woman with a white shirt and black pants is standing in front of a sign.
+wood_ground_truth_scratch_002_mask.png,A black-haired man with a white shirt is looking at something.
+wood_ground_truth_scratch_003_mask.png,A black man with glasses and a white shirt is walking through a crowd.
+wood_ground_truth_scratch_004_mask.png,A black-haired man with a red shirt and black pants is running.
+wood_ground_truth_scratch_005_mask.png,Man in a black shirt is throwing a football.
+wood_ground_truth_scratch_006_mask.png,Is standing next to a sign.
+wood_ground_truth_scratch_007_mask.png,A man in a suit is holding a piece of paper with a red marker on it.
+wood_ground_truth_scratch_008_mask.png,A baseball player with a red helmet is looking at the pitch.
+wood_ground_truth_scratch_009_mask.png,A black-haired man with glasses is looking at a piece of paper.
+wood_ground_truth_scratch_010_mask.png,Man with glasses and a black hat is standing in front of a table with a white tablecloth.
+wood_ground_truth_scratch_011_mask.png,A man with glasses is wearing a black shirt and glasses and is working on a machine.
+wood_ground_truth_scratch_012_mask.png,Man with glasses and a black hat is standing in front of a table with a white tablecloth.
+wood_ground_truth_scratch_013_mask.png,Man with glasses and a black shirt is wearing a black shirt and black hat.
+wood_ground_truth_scratch_014_mask.png,Two men with glasses are standing in a crowd.
+wood_ground_truth_scratch_015_mask.png,A black man with a red shirt is standing in front of a white wall with a sign on it.
+wood_ground_truth_scratch_016_mask.png,A black-haired man with a black shirt and black hair is working on a machine.
+wood_ground_truth_scratch_017_mask.png,"A man in a black shirt is walking past a sign that says ""sushi bar ""."
+wood_ground_truth_scratch_018_mask.png,A red-haired woman with a red shirt is holding a cup.
+wood_ground_truth_scratch_019_mask.png,A black dog is running with a red toy in its mouth.
+wood_ground_truth_scratch_020_mask.png,A black-haired man with glasses is standing in front of a table with a white tablecloth.
+zipper_ground_truth_broken_teeth_000_mask.png,A man with a red shirt is playing a sport.
+zipper_ground_truth_broken_teeth_001_mask.png,Actor in black shirt playing with a red ball.
+zipper_ground_truth_broken_teeth_002_mask.png,Young man with glasses and a white shirt is looking at something.
+zipper_ground_truth_broken_teeth_003_mask.png,A man with glasses is playing with a game.
+zipper_ground_truth_broken_teeth_004_mask.png,A man with glasses is playing with a red ball.
+zipper_ground_truth_broken_teeth_005_mask.png,A man with a red shirt is looking at something.
+zipper_ground_truth_broken_teeth_006_mask.png,A woman with a red scarf on her head is looking at something.
+zipper_ground_truth_broken_teeth_007_mask.png,Mr. Potato Head is looking at the camera.
+zipper_ground_truth_broken_teeth_008_mask.png,A black-haired man with glasses is looking at something in the distance.
+zipper_ground_truth_broken_teeth_009_mask.png,A man with glasses is playing with a ball.
+zipper_ground_truth_broken_teeth_010_mask.png,A man with a white beard is wearing a red shirt and a black hat.
+zipper_ground_truth_broken_teeth_011_mask.png,A black-haired man with a red tie is holding a ball.
+zipper_ground_truth_broken_teeth_012_mask.png,A man with a white beard is looking at something.
+zipper_ground_truth_broken_teeth_013_mask.png,Man with glasses and a black hat is playing with a red ball.
+zipper_ground_truth_broken_teeth_014_mask.png,Man with glasses and a white shirt is looking at something.
+zipper_ground_truth_broken_teeth_015_mask.png,A man with glasses and a black shirt is playing with a ball.
+zipper_ground_truth_broken_teeth_016_mask.png,A black man with a red nose and a white shirt is playing with a ball.
+zipper_ground_truth_broken_teeth_017_mask.png,A man with a red shirt and black hat is holding a trumpet.
+zipper_ground_truth_broken_teeth_018_mask.png,Man with glasses and a white shirt is wearing a black hat and a white shirt.
+zipper_ground_truth_combined_000_mask.png,Man in black shirt with red tie walking on the sidewalk.
+zipper_ground_truth_combined_001_mask.png,Man in a red shirt with a white stripe on it.
+zipper_ground_truth_combined_002_mask.png,Man in a white shirt is running.
+zipper_ground_truth_combined_003_mask.png,Men with black hair and red shirts are playing a game.
+zipper_ground_truth_combined_004_mask.png,Men are looking at something.
+zipper_ground_truth_combined_005_mask.png,Man with glasses and a white shirt is standing in front of a crowd.
+zipper_ground_truth_combined_006_mask.png,A black-haired man with glasses and a white shirt is walking through a crowd.
+zipper_ground_truth_combined_007_mask.png,Man with glasses and a black hat is playing with a ball.
+zipper_ground_truth_combined_008_mask.png,A man in a black shirt is playing a game.
+zipper_ground_truth_combined_009_mask.png,Man with glasses and a black hat is smiling.
+zipper_ground_truth_combined_010_mask.png,A black-haired man with glasses is playing with a white ball.
+zipper_ground_truth_combined_011_mask.png,A black man with glasses and a white shirt is walking through a crowd.
+zipper_ground_truth_combined_012_mask.png,Actor in black shirt playing with a red ball.
+zipper_ground_truth_combined_013_mask.png,A group of people are playing with a ball.
+zipper_ground_truth_combined_014_mask.png,Man with glasses and a black shirt is playing with his hands.
+zipper_ground_truth_combined_015_mask.png,A man with a black hat and a black shirt is walking through the street.
+zipper_ground_truth_fabric_border_000_mask.png,A black man with glasses is playing with a ball.
+zipper_ground_truth_fabric_border_001_mask.png,A black man with glasses is looking at something in a white box.
+zipper_ground_truth_fabric_border_002_mask.png,A man in a red shirt is throwing a ball.
+zipper_ground_truth_fabric_border_003_mask.png,A man in a red shirt is holding a bowl of ice cream.
+zipper_ground_truth_fabric_border_004_mask.png,Man in black shirt with red tie and black hat is standing in front of a table with a white wall.
+zipper_ground_truth_fabric_border_005_mask.png,A man in a black shirt is pouring a liquid into a glass.
+zipper_ground_truth_fabric_border_006_mask.png,Men with black hair are playing with balls.
+zipper_ground_truth_fabric_border_007_mask.png,A black man with glasses is playing the piano.
+zipper_ground_truth_fabric_border_008_mask.png,A black man with glasses is pouring a liquid from a bottle into a glass.
+zipper_ground_truth_fabric_border_009_mask.png,A man in a black shirt is looking at something.
+zipper_ground_truth_fabric_border_010_mask.png,Two men with black hair and glasses are looking at a drink.
+zipper_ground_truth_fabric_border_011_mask.png,A black man with glasses is playing with a ball.
+zipper_ground_truth_fabric_border_012_mask.png,A group of people are playing the game of the night.
+zipper_ground_truth_fabric_border_013_mask.png,A black-haired man with glasses is pouring a liquid from a bottle into a glass.
+zipper_ground_truth_fabric_border_014_mask.png,Man in a black shirt and white hat is playing with a piece of paper.
+zipper_ground_truth_fabric_border_015_mask.png,Men with glasses are playing with bubbles.
+zipper_ground_truth_fabric_border_016_mask.png,Men in suits are standing around.
+zipper_ground_truth_fabric_interior_000_mask.png,Men with glasses are playing with balls.
+zipper_ground_truth_fabric_interior_001_mask.png,A black man with glasses is playing with a red ball.
+zipper_ground_truth_fabric_interior_002_mask.png,Man in a black shirt with a black hat and glasses is playing with a drink.
+zipper_ground_truth_fabric_interior_003_mask.png,Man in a black shirt with a red tie is holding a piece of paper.
+zipper_ground_truth_fabric_interior_004_mask.png,A black man with glasses is playing with a ball.
+zipper_ground_truth_fabric_interior_005_mask.png,A black-haired man with glasses is looking at the camera.
+zipper_ground_truth_fabric_interior_006_mask.png,Man in a black shirt with a white stripe on it is looking at the camera.
+zipper_ground_truth_fabric_interior_007_mask.png,A man in a black shirt is holding a red cup.
+zipper_ground_truth_fabric_interior_008_mask.png,A man with glasses is pouring a liquid into a glass.
+zipper_ground_truth_fabric_interior_009_mask.png,Man with glasses and a white shirt is holding a drink.
+zipper_ground_truth_fabric_interior_010_mask.png,A man with glasses is playing the drums.
+zipper_ground_truth_fabric_interior_011_mask.png,Men with black hair and glasses are playing music.
+zipper_ground_truth_fabric_interior_012_mask.png,A black-haired man with a red shirt and white hat is looking at the camera.
+zipper_ground_truth_fabric_interior_013_mask.png,A man with a black shirt and red tie is playing with a ball.
+zipper_ground_truth_fabric_interior_014_mask.png,A white-haired man with glasses is looking at something in the distance.
+zipper_ground_truth_fabric_interior_015_mask.png,Actor in black shirt with red tie is playing with a ball.
+zipper_ground_truth_rough_000_mask.png,A black man with glasses is looking at something.
+zipper_ground_truth_rough_001_mask.png,Man in a black shirt with a red tie is playing a game.
+zipper_ground_truth_rough_002_mask.png,Man with glasses and a black shirt is sitting in a chair.
+zipper_ground_truth_rough_003_mask.png,Man in a black shirt is running.
+zipper_ground_truth_rough_004_mask.png,A man in a red shirt is standing in a crowd.
+zipper_ground_truth_rough_005_mask.png,A young man with a red shirt and black pants is running.
+zipper_ground_truth_rough_006_mask.png,Man in a black shirt is working on a project.
+zipper_ground_truth_rough_007_mask.png,Man with glasses and a black hat is sitting in a chair.
+zipper_ground_truth_rough_008_mask.png,Man with glasses and a black shirt is holding a piece of paper in his hand.
+zipper_ground_truth_rough_009_mask.png,Man with glasses and a black hat is sitting in a chair.
+zipper_ground_truth_rough_010_mask.png,Man with glasses and a black hat is playing with a red ball.
+zipper_ground_truth_rough_011_mask.png,A man with glasses is looking at something.
+zipper_ground_truth_rough_012_mask.png,A young man in a red shirt is running.
+zipper_ground_truth_rough_013_mask.png,Man with glasses and a black hat is wearing a white shirt and black pants.
+zipper_ground_truth_rough_014_mask.png,A man with glasses is looking at the camera.
+zipper_ground_truth_rough_015_mask.png,A young man in a blue shirt is standing in front of a crowd.
+zipper_ground_truth_rough_016_mask.png,Man with glasses and a black hat is sculpting a sculpture.
+zipper_ground_truth_split_teeth_000_mask.png,Man with glasses and a white beard is wearing a black hat and a white shirt.
+zipper_ground_truth_split_teeth_001_mask.png,A black-haired man with glasses is looking at something.
+zipper_ground_truth_split_teeth_002_mask.png,Man with glasses and a black shirt is looking at something.
+zipper_ground_truth_split_teeth_003_mask.png,Man with glasses and a black hat is looking at something.
+zipper_ground_truth_split_teeth_004_mask.png,Man with glasses and a white beard is holding a cup.
+zipper_ground_truth_split_teeth_005_mask.png,Man with glasses and a black hat is holding a piece of paper.
+zipper_ground_truth_split_teeth_006_mask.png,Man with a white beard and glasses is wearing a suit and tie.
+zipper_ground_truth_split_teeth_007_mask.png,Man with glasses and a black shirt is playing with a piece of paper.
+zipper_ground_truth_split_teeth_008_mask.png,Man with glasses and a white shirt is holding a piece of paper in his hand.
+zipper_ground_truth_split_teeth_009_mask.png,A man with glasses and a black hat is standing in front of a table with a red tablecloth.
+zipper_ground_truth_split_teeth_010_mask.png,Man with glasses and a black hat is wearing a black jacket and a white hat.
+zipper_ground_truth_split_teeth_011_mask.png,Actor in a black shirt is playing the piano.
+zipper_ground_truth_split_teeth_012_mask.png,Man with glasses and a black hat is standing in front of a table with a red tablecloth.
+zipper_ground_truth_split_teeth_013_mask.png,Man with glasses and a black hat is playing with a piece of paper.
+zipper_ground_truth_split_teeth_014_mask.png,Man with glasses and a black hat is playing with a piece of paper.
+zipper_ground_truth_split_teeth_015_mask.png,Man with glasses and a white beard is holding a piece of paper with a red and white circle on it.
+zipper_ground_truth_split_teeth_016_mask.png,Man with glasses and a white beard is wearing a black shirt and a red hat.
+zipper_ground_truth_split_teeth_017_mask.png,A man with glasses is playing a game with a ball.
+zipper_ground_truth_squeezed_teeth_000_mask.png,Man with glasses and a white shirt is looking at something.
+zipper_ground_truth_squeezed_teeth_001_mask.png,Man with glasses and a black hat is holding a cup.
+zipper_ground_truth_squeezed_teeth_002_mask.png,Man with glasses and a black shirt is looking at something.
+zipper_ground_truth_squeezed_teeth_003_mask.png,A man in a red shirt is looking at something in the distance.
+zipper_ground_truth_squeezed_teeth_004_mask.png,A brunette with a red shirt is holding a red ball.
+zipper_ground_truth_squeezed_teeth_005_mask.png,A man in a red shirt is playing with a ball.
+zipper_ground_truth_squeezed_teeth_006_mask.png,A man with a white shirt and glasses is holding a cup.
+zipper_ground_truth_squeezed_teeth_007_mask.png,A black-haired woman with a red scarf on her head is looking at something.
+zipper_ground_truth_squeezed_teeth_008_mask.png,A man with glasses is looking at the camera.
+zipper_ground_truth_squeezed_teeth_009_mask.png,A group of people are playing a game.
+zipper_ground_truth_squeezed_teeth_010_mask.png,Man in a black shirt with a white hat is holding a piece of paper.
+zipper_ground_truth_squeezed_teeth_011_mask.png,A man in a red shirt is playing with a ball.
+zipper_ground_truth_squeezed_teeth_012_mask.png,Man with glasses and a white shirt is looking at something.
+zipper_ground_truth_squeezed_teeth_013_mask.png,Man with glasses and a white shirt is playing with a ball.
+zipper_ground_truth_squeezed_teeth_014_mask.png,A black-haired man with glasses is looking at something.
+zipper_ground_truth_squeezed_teeth_015_mask.png,Man with glasses and a red shirt is holding a piece of paper.
