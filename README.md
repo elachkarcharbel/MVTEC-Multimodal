@@ -33,7 +33,7 @@ CLIP(COCO+Conceptual)+GPT2 | <a href="https://github.com/rmokady/CLIP_prefix_cap
   </tr>
   <tr>
     <td>CLIP(ViT-B/16+COCO)+GPT2</td>
-    <td rowspan="6"><a href="https://drive.google.com/file/d/1IdaBtMSvtyzF0ByVaBHtvM0JYSXRExRX/view?usp=sharing">Download (pretrained COCO)</a></td>
+    <td rowspan="9"><a href="https://drive.google.com/file/d/1IdaBtMSvtyzF0ByVaBHtvM0JYSXRExRX/view?usp=sharing">Download (pretrained COCO)</a></td>
   </tr>
   <tr>
     <td>CLIP(ViT-B/32+COCO)+GPT2</td>
@@ -50,10 +50,19 @@ CLIP(COCO+Conceptual)+GPT2 | <a href="https://github.com/rmokady/CLIP_prefix_cap
       <tr>
     <td>CLIP(RN101+COCO)+GPT2</td>
   </tr>
+        <tr>
+    <td>CLIP(RN50x4+COCO)+GPT2</td>
+  </tr>
+        <tr>
+    <td>CLIP(RN50x16+COCO)+GPT2</td>
+  </tr>
+        <tr>
+    <td>CLIP(RN50x64+COCO)+GPT2</td>
+  </tr>
   
   <tr>
     <td>CLIP(ViT-B/16+Conceptual)+GPT2</td>
-    <td rowspan="6"><a href="https://drive.google.com/file/d/14pXWwB4Zm82rsDdvbGguLfx9F8aM7ovT/view?usp=sharing">Download (pretrained conceptual)</a></td>
+    <td rowspan="9"><a href="https://drive.google.com/file/d/14pXWwB4Zm82rsDdvbGguLfx9F8aM7ovT/view?usp=sharing">Download (pretrained conceptual)</a></td>
   </tr>
   <tr>
     <td>CLIP(ViT-B/32+Conceptual)+GPT2</td>
@@ -69,5 +78,14 @@ CLIP(COCO+Conceptual)+GPT2 | <a href="https://github.com/rmokady/CLIP_prefix_cap
   </tr>
       <tr>
     <td>CLIP(RN101+Conceptual)+GPT2</td>
+  </tr>
+        <tr>
+    <td>CLIP(RN50x4+Conceptual)+GPT2</td>
+  </tr>
+        <tr>
+    <td>CLIP(RN50x16+Conceptual)+GPT2</td>
+  </tr>
+        <tr>
+    <td>CLIP(RN50x64+Conceptual)+GPT2</td>
   </tr>
 </table>
