@@ -1,0 +1,163 @@
+Modality, Model Name, Image Size (Orginial), Batch Size, Image Size (Resized), Accuracy, Precision, Recall, F1-Score
+Orginial Images,VIT-B-p16-384,700x700,16,384x384,0.76,0.48,0.05,0.10
+DepthMap Images,VIT-B-p16-384,700x700,16,384x384,0.24,0.24,1.00,0.39
+STFT spectrograms,VIT-B-p16-384,700x700,16,384x384,0.24,0.24,1.00,0.39
+CQT spectrograms,VIT-B-p16-384,700x700,16,384x384,0.76,0,0,0
+Thermal IR Images,VIT-B-p16-384,700x700,16,384x384,0.51,0.29,0.71,0.41
+---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------
+Orginial Images,tf_efficientnet_b7_ns,700x700,8,600x600,0.90,0.74,0.87,0.80
+DepthMap Images,tf_efficientnet_b7_ns,700x700,8,600x600,0.69,0.38,0.41,0.40
+STFT spectrograms,tf_efficientnet_b7_ns,700x700,8,600x600,0.82,0.67,0.46,0.55
+CQT spectrograms,tf_efficientnet_b7_ns,700x700,8,600x600,0.76,0.40,0.01,0.02
+Thermal IR Images,tf_efficientnet_b7_ns,700x700,8,600x600,0.90,0.99,0.59,0.73
+---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------
+Orginial Images,tf_efficientnet_b7,700x700,8,600x600,0.73,0.47,0.89,0.61
+DepthMap Images,tf_efficientnet_b7,700x700,8,600x600,0.70,0.33,0.23,0.27
+STFT spectrograms,tf_efficientnet_b7,700x700,8,600x600,0.81,0.70,0.35,0.47
+CQT spectrograms,tf_efficientnet_b7,700x700,8,600x600,0.74,0.45,0.44,0.45
+Thermal IR Images,tf_efficientnet_b7,700x700,8,600x600,0.86,0.69,0.77,0.73
+---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------
+Orginial Images,ig_resnext101_32x48d,700x700,8,224x224,0.75,0.29,0.02,0.03
+DepthMap Images,ig_resnext101_32x48d,700x700,8,224x224,0.76,0,0,0
+STFT spectrograms,ig_resnext101_32x48d,700x700,8,224x224,0.76,0,0,0
+CQT spectrograms,ig_resnext101_32x48d,700x700,8,224x224,0.75,0.42,0.06,0.11
+Thermal IR Images,ig_resnext101_32x48d,700x700,8,224x224,0.73,0.34,0.11,0.16
+---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------
+Orginial Images,tf_efficientnet_b7_ap,700x700,8,600x600,0.91,0.86,0.73,0.79
+DepthMap Images,tf_efficientnet_b7_ap,700x700,8,600x600,0.64,0.29,0.36,0.32
+STFT spectrograms,tf_efficientnet_b7_ap,700x700,8,600x600,0.82,0.71,0.44,0.55
+CQT spectrograms,tf_efficientnet_b7_ap,700x700,8,600x600,0.80,0.64,0.36,0.47
+Thermal IR Images,tf_efficientnet_b7_ap,700x700,8,600x600,0.88,0.91,0.54,0.68
+---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------,---------------------
+Orginial Images,VIT-B-p16-384,700x700,8,384x384,0.72,0.26,0.08,0.12
+DepthMap Images,VIT-B-p16-384,700x700,8,384x384,0.76,0,0,0
+STFT spectrograms,VIT-B-p16-384,700x700,8,384x384,0.76,0,0,0
+CQT spectrograms,VIT-B-p16-384,700x700,8,384x384,0.57,0.19,0.25,0.22
+Thermal IR Images,VIT-B-p16-384,700x700,8,384x384,0.62,0.30,0.41,0.35
+++++++++++++++++++++,++++++++++++++++++++,++++++++++++++++++++,++++++++++++++++++++,++++++++++++++++++++,++++++++++++++++++++,++++++++++++++++++++,++++++++++++++++++++,++++++++++++++++++++
+Modality, Model Name, Sample Rate, Audio Length, Batch Size, Accuracy, Precision, Recall, F1-Score
+WAV signals,RawNet,44100,11.11,8,0.71,0.32,0.15,0.20
+WAV signals,RawNet,44100,11.11,16,0.69,0.37,0.29,0.33
+WAV signals,RawNet,44100,11.11,32,0.69,0.36,0.28,0.31
+WAV signals,RawNet2,44100,11.11,4,0.75,0,0,0
+====================,====================,====================,====================,====================,====================,====================,====================,====================
+Modality, Model Name, Generated Captions,, Batch Size, Accuracy, Precision, Recall, F1-Score
+Captions,BERT,BLIP_VIT-B_CapFilt-L,,128,0.75,0.48,0.21,0.29
+Captions,BERT,BLIP_VIT-L,,128,0.75,1.00,0,0
+Captions,BERT,CLIP(Flickr30k)+GPT2-large,,128,0.80,0.75,0.31,0.44
+Captions,BERT,CLIP(Flickr30k)+GPT2-small,,128,0.77,0.67,0.21,0.32
+Captions,BERT,CLIP(RN50+COCO)+GPT2,,128,0.75,1.00,0,0.01
+Captions,BERT,CLIP(RN50+Conceptual)+GPT2,,128,0.75,0.75,0.01,0.02
+Captions,BERT,CLIP(RN50x4+COCO)+GPT2,,128,0.76,0.71,0.04,0.08
+Captions,BERT,CLIP(RN50x4+Conceptual)+GPT2,,128,0.75,0.67,0.04,0.08
+Captions,BERT,CLIP(RN50x16+COCO)+GPT2,,128,0.76,0.56,0.22,0.31
+Captions,BERT,CLIP(RN50x16+Conceptual)+GPT2,,128,0.75,0.50,0,0.01
+Captions,BERT,CLIP(RN50x64+COCO)+GPT2,,128,0.75,0.57,0.09,0.15
+Captions,BERT,CLIP(RN50x64+Conceptual)+GPT2,,128,0.76,0.60,0.16,0.25
+Captions,BERT,CLIP(RN101+COCO)+GPT2,,128,0.75,0.64,0.05,0.10
+Captions,BERT,CLIP(RN101+Conceptual)+GPT2,,128,0.75,0.67,0.01,0.01
+Captions,BERT,CLIP(ViT-B-16+COCO)+GPT2,,128,0.78,0.66,0.26,0.38
+Captions,BERT,CLIP(ViT-B-16+Conceptual)+GPT2,,128,0.77,0.64,0.21,0.31
+Captions,BERT,CLIP(ViT-B-32+COCO)+GPT2,,128,0.76,0.57,0.13,0.22
+Captions,BERT,CLIP(ViT-B-32+Conceptual)+GPT2,,128,0.76,0.61,0.17,0.21
+Captions,BERT,CLIP(ViT-L-14@336px+COCO)+GPT2,,128,0.79,0.75,0.23,0.35
+Captions,BERT,CLIP(ViT-L-14@336px+Conceptual)+GPT2,,128,0.78,0.61,0.33,0.43
+Captions,BERT,CLIP(ViT-L-14+COCO)+GPT2,,128,0.77,0.55,0.34,0.42
+Captions,BERT,CLIP(ViT-L-14+Conceptual)+GPT2,,128,0.79,0.76,0.22,0.34
+
+Captions,DistilBERT,BLIP_VIT-B_CapFilt-L,,128,0.75,1.00,0,0
+Captions,DistilBERT,BLIP_VIT-L,,128,0.75,1.00,0,0
+Captions,DistilBERT,CLIP(Flickr30k)+GPT2-large,,128,0.77,0.59,0.30,0.40
+Captions,DistilBERT,CLIP(Flickr30k)+GPT2-small,,128,0.76,0.79,0.06,0.10
+Captions,DistilBERT,CLIP(RN50+COCO)+GPT2,,128,0.76,0.90,0.03,0.06
+Captions,DistilBERT,CLIP(RN50+Conceptual)+GPT2,,128,0.75,0.75,0.01,0.02
+Captions,DistilBERT,CLIP(RN50x4+COCO)+GPT2,,128,0.75,0.61,0.06,0.11
+Captions,DistilBERT,CLIP(RN50x4+Conceptual)+GPT2,,128,0.75,0.60,0.02,0.04
+Captions,DistilBERT,CLIP(RN50x16+COCO)+GPT2,,128,0.77,0.65,0.16,0.26
+Captions,DistilBERT,CLIP(RN50x16+Conceptual)+GPT2,,128,0.75,1.00,0,0
+Captions,DistilBERT,CLIP(RN50x64+COCO)+GPT2,,128,0.75,0.51,0.16,0.24
+Captions,DistilBERT,CLIP(RN50x64+Conceptual)+GPT2,,128,0.76,0.60,0.12,0.20
+Captions,DistilBERT,CLIP(RN101+COCO)+GPT2,,128,0.75,1.00,0,0
+Captions,DistilBERT,CLIP(RN101+Conceptual)+GPT2,,128,0.75,1.00,0,0
+Captions,DistilBERT,CLIP(ViT-B-16+COCO)+GPT2,,128,0.79,0.76,0.23,0.35
+Captions,DistilBERT,CLIP(ViT-B-16+Conceptual)+GPT2,,128,0.77,0.59,0.32,0.42
+Captions,DistilBERT,CLIP(ViT-B-32+COCO)+GPT2,,128,0.75,0.53,0.16,0.24
+Captions,DistilBERT,CLIP(ViT-B-32+Conceptual)+GPT2,,128,0.76,0.57,0.17,0.26
+Captions,DistilBERT,CLIP(ViT-L-14@336px+COCO)+GPT2,,128,0.78,0.59,0.45,0.51
+Captions,DistilBERT,CLIP(ViT-L-14@336px+Conceptual)+GPT2,,128,0.76,0.52,0.42,0.47
+Captions,DistilBERT,CLIP(ViT-L-14+COCO)+GPT2,,128,0.77,0.55,0.42,0.47
+Captions,DistilBERT,CLIP(ViT-L-14+Conceptual)+GPT2,,128,0.79,0.71,0.30,0.42
+
+Captions,RoBERTa,BLIP_VIT-B_CapFilt-L,,64,0.75,1.00,0,0
+Captions,RoBERTa,BLIP_VIT-L,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(Flickr30k)+GPT2-large,,64,0.80,0.69,0.39,0.50
+Captions,RoBERTa,CLIP(Flickr30k)+GPT2-small,,64,0.75,0.67,0.01,0.01
+Captions,RoBERTa,CLIP(RN50+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN50+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN50x4+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN50x4+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN50x16+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN50x16+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN50x64+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN50x64+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN101+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(RN101+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-B-16+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-B-16+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-B-32+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-B-32+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-L-14@336px+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-L-14@336px+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-L-14+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,RoBERTa,CLIP(ViT-L-14+Conceptual)+GPT2,,64,0.75,1.00,0,0
+
+Captions,ALBERT,BLIP_VIT-B_CapFilt-L,,64,0.75,1.00,0,0
+Captions,ALBERT,BLIP_VIT-L,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(Flickr30k)+GPT2-large,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(Flickr30k)+GPT2-small,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50x4+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50x4+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50x16+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50x16+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50x64+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN50x64+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN101+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(RN101+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-B-16+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-B-16+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-B-32+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-B-32+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-L-14@336px+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-L-14@336px+Conceptual)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-L-14+COCO)+GPT2,,64,0.75,1.00,0,0
+Captions,ALBERT,CLIP(ViT-L-14+Conceptual)+GPT2,,64,0.75,1.00,0,0
+
+Captions,GPT-4,BLIP_VIT-B_CapFilt-L,,64,0.71,0.28,0.10,0.15
+Captions,GPT-4,BLIP_VIT-L,,64,0.71,0.28,0.10,0.15
+Captions,GPT-4,CLIP(Flickr30k)+GPT2-large,,64,0.72,0.24,0.06,0.09
+Captions,GPT-4,CLIP(Flickr30k)+GPT2-small,,64,0.75,0.50,0.01,0.03
+Captions,GPT-4,CLIP(RN50+COCO)+GPT2,,64,0.75,0,0,0
+Captions,GPT-4,CLIP(RN50+Conceptual)+GPT2,,64,0.73,0.34,0.10,0.16
+Captions,GPT-4,CLIP(RN50x4+COCO)+GPT2,,64,0.75,0,0,0
+Captions,GPT-4,CLIP(RN50x4+Conceptual)+GPT2,,64,0.75,0.44,0.02,0.04
+Captions,GPT-4,CLIP(RN50x16+COCO)+GPT2,,64,0.71,0.22,0.07,0.10
+Captions,GPT-4,CLIP(RN50x16+Conceptual)+GPT2,,64,0.74,0.16,0.01,0.03
+Captions,GPT-4,CLIP(RN50x64+COCO)+GPT2,,64,0.74,0,0,0
+Captions,GPT-4,CLIP(RN50x64+Conceptual)+GPT2,,64,0.75,0,0,0
+Captions,GPT-4,CLIP(RN101+COCO)+GPT2,,64,0.75,0,0,0
+Captions,GPT-4,CLIP(RN101+Conceptual)+GPT2,,64,0.75,0.36,0.02,0.04
+Captions,GPT-4,CLIP(ViT-B-16+COCO)+GPT2,,64,0.72,0.20,0.04,0.07
+Captions,GPT-4,CLIP(ViT-B-16+Conceptual)+GPT2,,64,0.75,0.33,0.02,0.04
+Captions,GPT-4,CLIP(ViT-B-32+COCO)+GPT2,,64,0.74,0.15,0.01,0.03
+Captions,GPT-4,CLIP(ViT-B-32+Conceptual)+GPT2,,64,0.74,0.28,0.05,0.08
+Captions,GPT-4,CLIP(ViT-L-14@336px+COCO)+GPT2,,64,0.72,0.23,0.06,0.09
+Captions,GPT-4,CLIP(ViT-L-14@336px+Conceptual)+GPT2,,64,0.71,0.24,0.09,0.13
+Captions,GPT-4,CLIP(ViT-L-14+COCO)+GPT2,,64,0.72,0.25,0.06,0.10
+Captions,GPT-4,CLIP(ViT-L-14+Conceptual)+GPT2,,64,0.74,0.27,0.03,0.05
+
+1- remove the rows with null values
+2- removed rows where Accuracy < 0.75 or F1-Score < 0.15 to keep only the most relevant results
+3- All ALBERT has null values so removed it all 
+4- GPT-4 has none in the threshold defined in 2 so it was removed like ALBERT
